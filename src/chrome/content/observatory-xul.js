@@ -15,27 +15,27 @@ const pref_prefix = "extensions.ssl_observatory.";
 
 function observatory_prefs_init(doc) {
   // Is the Observatory on?
-  var enabled = obsprefs.getBoolPref("extensions.https_everywhere._observatory.enabled");
+  var enabled = obsprefs.getBoolPref("extensions.encryptedweb._observatory.enabled");
   document.getElementById("use-observatory").checked = enabled;
   set_observatory_configurability(enabled);
   // Other settings
   document.getElementById("alt-roots").checked = 
-    obsprefs.getBoolPref("extensions.https_everywhere._observatory.alt_roots");
+    obsprefs.getBoolPref("extensions.encryptedweb._observatory.alt_roots");
   document.getElementById("priv-dns").checked = 
-    obsprefs.getBoolPref("extensions.https_everywhere._observatory.priv_dns");
+    obsprefs.getBoolPref("extensions.encryptedweb._observatory.priv_dns");
   document.getElementById("self-signed").checked = 
-    obsprefs.getBoolPref("extensions.https_everywhere._observatory.self_signed");
+    obsprefs.getBoolPref("extensions.encryptedweb._observatory.self_signed");
   document.getElementById("send-asn").checked = 
-    obsprefs.getBoolPref("extensions.https_everywhere._observatory.send_asn");
+    obsprefs.getBoolPref("extensions.encryptedweb._observatory.send_asn");
   document.getElementById("show-cert-warning").checked = 
-    obsprefs.getBoolPref("extensions.https_everywhere._observatory.show_cert_warning");
+    obsprefs.getBoolPref("extensions.encryptedweb._observatory.show_cert_warning");
 
   // More complicated: is it anonymised by Tor?
   var obs_how = doc.getElementById("ssl-obs-how");
   var anon_radio = document.getElementById("ssl-obs-anon");
   var nonanon_radio = document.getElementById("ssl-obs-nonanon");
   var anon = !obsprefs.getBoolPref(
-            "extensions.https_everywhere._observatory.use_custom_proxy");
+            "extensions.encryptedweb._observatory.use_custom_proxy");
 
   // first set the radios to match the current settings variables
   obs_how.selectedItem = (anon) ? anon_radio : nonanon_radio;
@@ -53,8 +53,8 @@ function observatory_prefs_init(doc) {
 // The user has responded to the popup in a final way; don't show it to them
 // again
 function popup_done() {
-  obsprefs.setBoolPref("extensions.https_everywhere._observatory.popup_shown", true);
-  obsprefs.setBoolPref("extensions.https_everywhere._observatory.clean_config", true);
+  obsprefs.setBoolPref("extensions.encryptedweb._observatory.popup_shown", true);
+  obsprefs.setBoolPref("extensions.encryptedweb._observatory.clean_config", true);
   window.close();
 }
 
@@ -86,7 +86,7 @@ function set_observatory_configurability(enabled) {
 
 // show/hide advanced options in the preferences dialog
 function show_advanced() {
-  var enabled = obsprefs.getBoolPref("extensions.https_everywhere._observatory.enabled");
+  var enabled = obsprefs.getBoolPref("extensions.encryptedweb._observatory.enabled");
   if (enabled) {
     var adv_opts_box = document.getElementById("observatory-advanced-opts");
     recursive_set(adv_opts_box, "hidden", "false");
@@ -110,53 +110,53 @@ function recursive_set(node, attrib, value) {
 
 
 function set_obs_anon(val) {
-  obsprefs.setBoolPref( "extensions.https_everywhere._observatory.use_custom_proxy", !val);
+  obsprefs.setBoolPref( "extensions.encryptedweb._observatory.use_custom_proxy", !val);
 }
 
 // called from the popup only
 function enable_observatory() {
-  obsprefs.setBoolPref("extensions.https_everywhere._observatory.enabled", true);
+  obsprefs.setBoolPref("extensions.encryptedweb._observatory.enabled", true);
   var torbutton_avail = ssl_observatory.proxy_test_successful;
   set_obs_anon(torbutton_avail);
 }
 
 function disable_observatory() {
   // default but be sure...
-  obsprefs.setBoolPref("extensions.https_everywhere._observatory.enabled", false);
+  obsprefs.setBoolPref("extensions.encryptedweb._observatory.enabled", false);
 }
 
 // called from within the prefs window, we have more work to do:
 function toggle_enabled() {
   var use_obs = document.getElementById("use-observatory").checked;
-  obsprefs.setBoolPref("extensions.https_everywhere._observatory.enabled", use_obs);
+  obsprefs.setBoolPref("extensions.encryptedweb._observatory.enabled", use_obs);
   set_observatory_configurability(use_obs);
 }
 
 function toggle_send_asn() {
   var send_asn = document.getElementById("send-asn").checked;
-  obsprefs.setBoolPref("extensions.https_everywhere._observatory.send_asn", send_asn);
+  obsprefs.setBoolPref("extensions.encryptedweb._observatory.send_asn", send_asn);
   if (send_asn) ssl_observatory.setupASNWatcher()
   else          ssl_observatory.stopASNWatcher();
 }
 
 function toggle_show_cert_warning() {
   var show_cert_warning = document.getElementById("show-cert-warning").checked;
-  obsprefs.setBoolPref("extensions.https_everywhere._observatory.show_cert_warning", show_cert_warning);  
+  obsprefs.setBoolPref("extensions.encryptedweb._observatory.show_cert_warning", show_cert_warning);  
 }
 
 function toggle_alt_roots() {
   var alt_roots = document.getElementById("alt-roots").checked;
-  obsprefs.setBoolPref("extensions.https_everywhere._observatory.alt_roots", alt_roots);
+  obsprefs.setBoolPref("extensions.encryptedweb._observatory.alt_roots", alt_roots);
 }
 
 function toggle_priv_dns() {
   var priv_dns = document.getElementById("priv-dns").checked;
-  obsprefs.setBoolPref("extensions.https_everywhere._observatory.priv_dns", priv_dns);
+  obsprefs.setBoolPref("extensions.encryptedweb._observatory.priv_dns", priv_dns);
 }
 
 function toggle_self_signed() {
   var self_signed = document.getElementById("self-signed").checked;
-  obsprefs.setBoolPref("extensions.https_everywhere._observatory.self_signed", self_signed);
+  obsprefs.setBoolPref("extensions.encryptedweb._observatory.self_signed", self_signed);
 }
 
 function observatory_prefs_accept() {

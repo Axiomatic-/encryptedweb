@@ -13,7 +13,7 @@ https_everywhere = CC["@eff.org/https-everywhere;1"]
 rulesets = [];
 
 const id_prefix = "he_enable";
-const pref_prefix = "extensions.https_everywhere.";
+const pref_prefix = "extensions.encryptedweb.";
 const GITID = https_everywhere.https_rules.GITCommitID;
 
 // Disable all rules.

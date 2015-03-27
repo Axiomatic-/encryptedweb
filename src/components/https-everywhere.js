@@ -173,7 +173,7 @@ function HTTPSEverywhere() {
       .getService(Components.interfaces.nsIPrefBranchInternal);
   var branch = pref_service.QueryInterface(Components.interfaces.nsIPrefBranchInternal);
 
-  branch.addObserver("extensions.https_everywhere.enable_mixed_rulesets",
+  branch.addObserver("extensions.encryptedweb.enable_mixed_rulesets",
                          this, false);
   branch.addObserver("security.mixed_content.block_active_content",
                          this, false);
@@ -573,7 +573,7 @@ HTTPSEverywhere.prototype = {
             return;
         switch (data) {
             case "security.mixed_content.block_active_content":
-            case "extensions.https_everywhere.enable_mixed_rulesets":
+            case "extensions.encryptedweb.enable_mixed_rulesets":
                 var p = CC["@mozilla.org/preferences-service;1"].getService(CI.nsIPrefBranch);
                 var val = p.getBoolPref("security.mixed_content.block_active_content");
                 this.log(INFO,"nsPref:changed for "+data + " to " + val);
@@ -620,16 +620,16 @@ HTTPSEverywhere.prototype = {
     if (clean) return;
 
     // unchanged: returns true if a pref has not been modified
-    var unchanged = function(p){return !ssl_observatory.prefs.prefHasUserValue("extensions.https_everywhere._observatory."+p)};
+    var unchanged = function(p){return !ssl_observatory.prefs.prefHasUserValue("extensions.encryptedweb._observatory."+p)};
     var cleanup_obsprefs_callback = function(tor_avail) {
       // we only run this once
-      ssl_observatory.prefs.setBoolPref("extensions.https_everywhere._observatory.clean_config", true);
+      ssl_observatory.prefs.setBoolPref("extensions.encryptedweb._observatory.clean_config", true);
       if (!tor_avail) {
         // use_custom_proxy is the variable that is often false when it should be true;
         if (!ssl_observatory.myGetBoolPref("use_custom_proxy")) {
            // however don't do anything if any of the prefs have been set by the user
            if (unchanged("alt_roots") && unchanged("self_signed") && unchanged ("send_asn") && unchanged("priv_dns")) {
-             ssl_observatory.prefs.setBoolPref("extensions.https_everywhere._observatory.use_custom_proxy", true);
+             ssl_observatory.prefs.setBoolPref("extensions.encryptedweb._observatory.use_custom_proxy", true);
            }
         }
       }
@@ -700,11 +700,11 @@ HTTPSEverywhere.prototype = {
     // FIXME: Ugly hack stolen from https
     var branch_name;
     if(prefBranch === PREFBRANCH_RULE_TOGGLE)
-      branch_name = "extensions.https_everywhere.rule_toggle.";
+      branch_name = "extensions.encryptedweb.rule_toggle.";
     else if (prefBranch === PREFBRANCH_NONE)
       branch_name = "";
     else
-      branch_name = "extensions.https_everywhere.";
+      branch_name = "extensions.encryptedweb.";
     var o_prefs = false;
     var o_branch = false;
     // this function needs to be called from inside https_everywhereLog, so
@@ -822,7 +822,7 @@ HTTPSEverywhere.prototype = {
   toggleHttpNowhere: function() {
     let prefService = Services.prefs;
     let thisBranch =
-      prefService.getBranch("extensions.https_everywhere.http_nowhere.");
+      prefService.getBranch("extensions.encryptedweb.http_nowhere.");
     let securityBranch = prefService.getBranch("security.");
 
     // Whether cert is treated as invalid when OCSP connection fails

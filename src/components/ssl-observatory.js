@@ -23,7 +23,7 @@ let ASN_IMPLICIT = -2;    // ASN can be learned from connecting IP
 let ASN_UNKNOWABLE = -3;  // Cert was seen in the absence of [trustworthy] Internet access
 
 // XXX: We should make the _observatory tree relative.
-let LLVAR="extensions.https_everywhere.LogLevel";
+let LLVAR="extensions.encryptedweb.LogLevel";
 
 Components.utils.import("resource://gre/modules/XPCOMUtils.jsm");
 Components.utils.import("resource://gre/modules/ctypes.jsm");
@@ -174,7 +174,7 @@ SSLObservatory.prototype = {
 
   findSubmissionTarget: function() {
     // Compute the URL that the Observatory will currently submit to
-    var host = this.prefs.getCharPref("extensions.https_everywhere._observatory.server_host");
+    var host = this.prefs.getCharPref("extensions.encryptedweb._observatory.server_host");
     // Rebuild the regexp iff the host has changed
     if (host != this.submit_host) {
       this.submit_host = host;
@@ -432,7 +432,7 @@ SSLObservatory.prototype = {
 
   myGetBoolPref: function(prefstring) {
     // syntactic sugar
-    return this.prefs.getBoolPref ("extensions.https_everywhere._observatory." + prefstring);
+    return this.prefs.getBoolPref ("extensions.encryptedweb._observatory." + prefstring);
   },
 
   isChainWhitelisted: function(chainhash) {
@@ -658,7 +658,7 @@ SSLObservatory.prototype = {
 
         if (req.status == 200) {
           that.log(INFO, "Successful cert submission");
-          if (!that.prefs.getBoolPref("extensions.https_everywhere._observatory.cache_submitted") &&
+          if (!that.prefs.getBoolPref("extensions.encryptedweb._observatory.cache_submitted") &&
               c.fps[0] in that.already_submitted) {
             delete that.already_submitted[c.fps[0]];
           }
@@ -821,7 +821,7 @@ SSLObservatory.prototype = {
     // present.  The testingForTor argument is true in the latter case.
     var proxy_settings = ["direct", "", 0];
     this.log(INFO,"in getProxySettings()");
-    var custom_proxy_type = this.prefs.getCharPref("extensions.https_everywhere._observatory.proxy_type");
+    var custom_proxy_type = this.prefs.getCharPref("extensions.encryptedweb._observatory.proxy_type");
     if (this.torbutton_installed && this.myGetBoolPref("use_tor_proxy")) {
       this.log(INFO,"CASE: use_tor_proxy");
       // extract torbutton proxy settings
@@ -845,8 +845,8 @@ SSLObservatory.prototype = {
     } else if (this.myGetBoolPref("use_custom_proxy") && !(testingForTor && custom_proxy_type == "direct")) {
       this.log(INFO,"CASE: use_custom_proxy");
       proxy_settings[0] = custom_proxy_type;
-      proxy_settings[1] = this.prefs.getCharPref("extensions.https_everywhere._observatory.proxy_host");
-      proxy_settings[2] = this.prefs.getIntPref("extensions.https_everywhere._observatory.proxy_port");
+      proxy_settings[1] = this.prefs.getCharPref("extensions.encryptedweb._observatory.proxy_host");
+      proxy_settings[2] = this.prefs.getIntPref("extensions.encryptedweb._observatory.proxy_port");
     } else {
       /* Take a guess at default tor proxy settings */
       this.log(INFO,"CASE: try localhost:9050");
@@ -925,7 +925,7 @@ SSLObservatory.prototype = {
       // dump() prints to browser stdout. That's sometimes undesireable,
       // so only do it when a pref is set (running from test.sh enables
       // this pref).
-      if (this.prefs.getBoolPref("extensions.https_everywhere.log_to_stdout")) {
+      if (this.prefs.getBoolPref("extensions.encryptedweb.log_to_stdout")) {
         dump(prefix + str + "\n");
       }
       econsole.logStringMessage(prefix + str);

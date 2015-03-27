@@ -39,12 +39,12 @@ httpsEverywhere.toolbarButton = {
   /**
    * Name of preference for determining whether to show ruleset counter.
    */
-  COUNTER_PREF: "extensions.https_everywhere.show_counter",
+  COUNTER_PREF: "extensions.encryptedweb.show_counter",
 
   /**
    * Name of preference for whether HTTP Nowhere is on.
    */
-  HTTP_NOWHERE_PREF: "extensions.https_everywhere.http_nowhere.enabled",
+  HTTP_NOWHERE_PREF: "extensions.encryptedweb.http_nowhere.enabled",
 
   /**
    * Used to determine if a hint has been previously shown.
@@ -110,7 +110,7 @@ httpsEverywhere.toolbarButton = {
     }
 
     // decide whether to show toolbar hint
-    let hintPref = "extensions.https_everywhere.toolbar_hint_shown";
+    let hintPref = "extensions.encryptedweb.toolbar_hint_shown";
     if (!Services.prefs.getPrefType(hintPref) 
         || !Services.prefs.getBoolPref(hintPref)) { 
       // only run once
@@ -261,13 +261,13 @@ function https_everywhere_load() {
   try {
     var first_run;
     try {
-      first_run = Services.prefs.getBoolPref("extensions.https_everywhere.firstrun_context_menu");
+      first_run = Services.prefs.getBoolPref("extensions.encryptedweb.firstrun_context_menu");
     } catch(e) {
-      Services.prefs.setBoolPref("extensions.https_everywhere.firstrun_context_menu", true);
+      Services.prefs.setBoolPref("extensions.encryptedweb.firstrun_context_menu", true);
       first_run = true;
     }
     if(first_run) {
-      Services.prefs.setBoolPref("extensions.https_everywhere.firstrun_context_menu", false);
+      Services.prefs.setBoolPref("extensions.encryptedweb.firstrun_context_menu", false);
       var navbar = document.getElementById("nav-bar");
       if(navbar.currentSet.indexOf("https-everywhere-button") == -1) {
         var set = navbar.currentSet+',https-everywhere-button';

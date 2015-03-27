@@ -13,10 +13,10 @@ Steps:
     Check the box for "Trust this CA to identify websites"
     Click OK
     about:config ->
-      extensions.https_everywhere._observatory.alt_roots = true
-      extensions.https_everywhere._observatory.enabled = true
-      extensions.https_everywhere._observatory.use_custom_proxy = true
-      extensions.https_everywhere._observatory.server_host = localhost:3001
-      extensions.https_everywhere.LogLevel = 0
+      extensions.encryptedweb._observatory.alt_roots = true
+      extensions.encryptedweb._observatory.enabled = true
+      extensions.encryptedweb._observatory.use_custom_proxy = true
+      extensions.encryptedweb._observatory.server_host = localhost:3001
+      extensions.encryptedweb.LogLevel = 0
 
 4. for n in `seq 3001 3100` ; do firefox https://localhost:$n/ ; done

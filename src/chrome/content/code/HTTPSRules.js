@@ -451,7 +451,7 @@ const HTTPSRules = {
     // mixed content triggering rules, leave them out. Otherwise add them in.
     if(versionChecker.compare(appInfo.version, "23.0a1") >= 0
             && prefs.getBoolPref("security.mixed_content.block_active_content")
-            && !prefs.getBoolPref("extensions.https_everywhere.enable_mixed_rulesets")) {
+            && !prefs.getBoolPref("extensions.encryptedweb.enable_mixed_rulesets")) {
       this.log(INFO, "Not activating rules that trigger mixed content errors.");
       this.localPlatformRegexp = new RegExp("firefox");
     } else {
