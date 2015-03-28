@@ -3,7 +3,7 @@
 <!ENTITY ssl-observatory.popup.later "Pitaj me kasnije">
 <!ENTITY ssl-observatory.popup.no "Ne">
 
-<!ENTITY ssl-observatory.popup.text "HTTPS Everywhere može otkriti napade
+<!ENTITY ssl-observatory.popup.text "Encrypted Web može otkriti napade
 na vaš preglednik šaljući certifikate koje primite
 Opservatoriju.  Želite li uključiti ovo?">
 
@@ -13,7 +13,7 @@ and auditing the certificates being presented to your browser. Would you like
 to turn it on?">-->
 
 <!ENTITY ssl-observatory.popup.title 
-"Treba li HTTPS Everywhere koristiti SSL Opservatorij?">
+"Treba li Encrypted Web koristiti SSL Opservatorij?">
 
 <!ENTITY ssl-observatory.popup.yes "Da">
 
@@ -54,7 +54,7 @@ Nažalost, ne možemo garantirati da ćemo uočiti svaki opozvani certifikat, al
 <!ENTITY ssl-observatory.prefs.done "Gotovo">
 
 <!ENTITY ssl-observatory.prefs.explanation 
-"HTTPS Everywhere može koristiti EFF-ov SSL Opservatorij.  Ovo radi dvije stvari: (1)
+"Encrypted Web može koristiti EFF-ov SSL Opservatorij.  Ovo radi dvije stvari: (1)
 šalje kopije HTTPS certifikata Opservatoriju, da nam pomogne
 u otkrivanju 'čovjek u sredini' napada i poboljša sigurnost Web-a; i (2)
 dopušta nam da Vas obavijestimo o nesigurnim vezama ili napadima na Vaš preglednik.">
@@ -94,7 +94,7 @@ stranicu tražili.  Prelazak mišem preko &quot;opcija&quot; za daljnje pojedino
 <!ENTITY ssl-observatory.warning.showcert "Prikaži lanac certifikata">
 <!ENTITY ssl-observatory.warning.okay "Razumijem">
 <!ENTITY ssl-observatory.warning.text "EFF-ov SSL Opservatorij je izdao upozorenje o HTTPS certifikatu(ima) za ovu stranicu:">
-<!ENTITY ssl-observatory.warning.defense "Ako ste ulogirani na ovu stranicu, preporuča se da promijenite lozinku kad budete imali sigurnu vezu. (Ova upozorenja se mogu isključiti u &quot;SSL Observatory&quot; kartici u postavkama HTTPS Everywhere.)">
+<!ENTITY ssl-observatory.warning.defense "Ako ste ulogirani na ovu stranicu, preporuča se da promijenite lozinku kad budete imali sigurnu vezu. (Ova upozorenja se mogu isključiti u &quot;SSL Observatory&quot; kartici u postavkama Encrypted Web.)">
 
 <!ENTITY ssl-observatory.prefs.self_signed
 "Prijavite i provijerite samopotpisane certifikate">

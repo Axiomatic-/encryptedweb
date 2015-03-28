@@ -93,7 +93,7 @@ a vizionat. Menține mausul deasupra opțiunilor pentru mai multe detalii:">
 <!ENTITY ssl-observatory.warning.showcert "Arată lanțul certificatului">
 <!ENTITY ssl-observatory.warning.okay "Înțeleg">
 <!ENTITY ssl-observatory.warning.text "Observatorul SSL al EFF a emis o atenționare despre certificatul HTTPS al acestui site:">
-<!ENTITY ssl-observatory.warning.defense "Daca esti autentificat pe acest site, te sfatuim sa schimbi parola de indata ce ai o conexiune sigura. (Aceste avertizari pot fi dezactivate in tab-ul &quot;SSL Observatory&quot; in fereastra de preferinte HTTPS Everywhere.)">
+<!ENTITY ssl-observatory.warning.defense "Daca esti autentificat pe acest site, te sfatuim sa schimbi parola de indata ce ai o conexiune sigura. (Aceste avertizari pot fi dezactivate in tab-ul &quot;SSL Observatory&quot; in fereastra de preferinte Encrypted Web.)">
 
 <!ENTITY ssl-observatory.prefs.self_signed
 "Trimite și verifică certificatele auto-semnate">

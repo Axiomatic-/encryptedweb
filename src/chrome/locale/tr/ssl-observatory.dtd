@@ -53,7 +53,7 @@ etkinleştirmek sizin için güvenlidir.">
 <!ENTITY ssl-observatory.prefs.done "Tamamlandı">
 
 <!ENTITY ssl-observatory.prefs.explanation 
-"HTTPS Everywhere EFF'nin SSL Gözlemcisini kullanır. Gözlemci iki olay gerçekleştirir: (1)
+"Encrypted Web EFF'nin SSL Gözlemcisini kullanır. Gözlemci iki olay gerçekleştirir: (1)
 HTTPS sertifikalarının kopyalarını Gözlemci'ye yollar ki ortadaki adam saldırılarının tespitinde yardım edelim ve Web'in güvenliğini geliştirebilelim; ayrıca (2)
 sizi güvensiz bağlantılar hakkında veya tarayıcınıza saldırılarda uyarabilelim.">
 
@@ -89,7 +89,7 @@ Mouseover the options for further details:">-->
 <!ENTITY ssl-observatory.warning.showcert "Sertifika zincirini göster">
 <!ENTITY ssl-observatory.warning.okay "Anladım">
 <!ENTITY ssl-observatory.warning.text "EFF SSL Gözlemcisi bu sitenin HTTPS serfikası (ları) hakkında bir sorun olduğunu belirtiyor:">
-<!ENTITY ssl-observatory.warning.defense "Bu sitede oturum açmışsanız, güvenli bir bağlantıya sahip olduktan sonra parolanızı değiştirmeniz önerilebilir. (Bu uyarılar HTTPS Everywhere tercihler penceresindeki &quot;SSL Gözlemcisi&quot; sekmesinden devre dışı bırakılabilir.)">
+<!ENTITY ssl-observatory.warning.defense "Bu sitede oturum açmışsanız, güvenli bir bağlantıya sahip olduktan sonra parolanızı değiştirmeniz önerilebilir. (Bu uyarılar Encrypted Web tercihler penceresindeki &quot;SSL Gözlemcisi&quot; sekmesinden devre dışı bırakılabilir.)">
 
 <!ENTITY ssl-observatory.prefs.self_signed
 "Kendinden imzalı sertifikaları gönder ve kontrol et">

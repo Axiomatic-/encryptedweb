@@ -3,7 +3,7 @@
 <!ENTITY ssl-observatory.popup.later "คราวหน้าค่อยถาม">
 <!ENTITY ssl-observatory.popup.no "ไม่">
 
-<!ENTITY ssl-observatory.popup.text "HTTPS Everywhere สามารถตรวจจับการโจมตีเบราว์เซอร์
+<!ENTITY ssl-observatory.popup.text "Encrypted Web สามารถตรวจจับการโจมตีเบราว์เซอร์
 โดยการส่งใบรับรองไปที่ Observatory
 ต้องการหรือเปล่า?">
 
@@ -13,7 +13,7 @@ and auditing the certificates being presented to your browser. Would you like
 to turn it on?">-->
 
 <!ENTITY ssl-observatory.popup.title 
-"HTTPS Everywhere ควรใช้ SSL Observatory หรือไม่">
+"Encrypted Web ควรใช้ SSL Observatory หรือไม่">
 
 <!ENTITY ssl-observatory.popup.yes "ใช่">
 
@@ -53,7 +53,7 @@ to turn it on?">-->
 <!ENTITY ssl-observatory.prefs.done "เสร็จสิ้น">
 
 <!ENTITY ssl-observatory.prefs.explanation 
-"HTTPS Everywhere ใช้ SSL Observatory ของ EFF ซึ่งทำสองอย่าง
+"Encrypted Web ใช้ SSL Observatory ของ EFF ซึ่งทำสองอย่าง
 (1)
 ส่งใบรับรอง HTTPS ไปที่ Observatory เพื่อที่จะช่วยตรวจจับ 'การโจมตีแบบคนกลาง' เพิ่มความปลอดภัยของเว็บ และ
 (2)

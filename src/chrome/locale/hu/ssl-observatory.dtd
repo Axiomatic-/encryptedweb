@@ -3,7 +3,7 @@
 <!ENTITY ssl-observatory.popup.later "Kérdezzen meg később">
 <!ENTITY ssl-observatory.popup.no "Nem">
 
-<!ENTITY ssl-observatory.popup.text "A HTTPS Everywhere a böngésző elleni támadásokat képes észlelni, azzal ,hogy elküldi a megkapott tanúsítványokat az Observatory részére. Bekapcsoljuk ezt a funkciót?">
+<!ENTITY ssl-observatory.popup.text "A Encrypted Web a böngésző elleni támadásokat képes észlelni, azzal ,hogy elküldi a megkapott tanúsítványokat az Observatory részére. Bekapcsoljuk ezt a funkciót?">
 
 <!--<!ENTITY ssl-observatory.popup.text 
 "EFF's SSL Observatory can detect attacks against HTTPS websites by collecting
@@ -11,7 +11,7 @@ and auditing the certificates being presented to your browser. Would you like
 to turn it on?">-->
 
 <!ENTITY ssl-observatory.popup.title 
-"Használja a HTTPS Everywhere az SSL Observatory-t?">
+"Használja a Encrypted Web az SSL Observatory-t?">
 
 <!ENTITY ssl-observatory.popup.yes "Igen">
 
@@ -53,7 +53,7 @@ Tehát hagyja kikapcsolva alapértelmezetten.
 <!ENTITY ssl-observatory.prefs.done "Kész">
 
 <!ENTITY ssl-observatory.prefs.explanation 
-"A HTTPS Everywhere használni tudja az EFF's SSL Obszervatóriumát (Observatory).  Ez két dolgot jelent: (1)
+"A Encrypted Web használni tudja az EFF's SSL Obszervatóriumát (Observatory).  Ez két dolgot jelent: (1)
 elküldi a másolatát a HTTPS kapcoslatok tanúsítványainak az Obszervatóriumba, hogy segítse a MITM támadások észlelését, és növelje a Web biztonságát; és (2)
 lehetővé teszi, hogy figyelmeztessük, ha nem biztonságos a kapcoslata, vagy valaki támadja a böngészőjét.">
 
@@ -89,7 +89,7 @@ Mouseover the options for further details:">-->
 <!ENTITY ssl-observatory.warning.showcert "A tanúsítványlánc megjelenítése">
 <!ENTITY ssl-observatory.warning.okay "Megértettem">
 <!ENTITY ssl-observatory.warning.text "Az EFF SSL Oeservatory figyelmeztetést bocsátott az alábbi tanúsítványokról, ehhez az oldalhoz:">
-<!ENTITY ssl-observatory.warning.defense "Ha be vagy jelentkezve erre az oldalra, javasolt a jelszavad megváltoztatása ha biztonságos kapcsolatot használsz. (Ezek a figyelmeztetések kikapcsolhatók a HTTPS Everywhere beállítások &quot;SSL Observatory&quot; fülén.)">
+<!ENTITY ssl-observatory.warning.defense "Ha be vagy jelentkezve erre az oldalra, javasolt a jelszavad megváltoztatása ha biztonságos kapcsolatot használsz. (Ezek a figyelmeztetések kikapcsolhatók a Encrypted Web beállítások &quot;SSL Observatory&quot; fülén.)">
 
 <!ENTITY ssl-observatory.prefs.self_signed
 "A használt önaláírt tanúsítványok feltöltése és ellenőrzése">

@@ -3,7 +3,7 @@
 <!ENTITY ssl-observatory.popup.later "សួរ​ខ្ញុំ​ពេល​ក្រោយ">
 <!ENTITY ssl-observatory.popup.no "ទេ">
 
-<!ENTITY ssl-observatory.popup.text "HTTPS Everywhere អាច​រក​ឃើញ​​ការ​វាយ​ប្រហារ
+<!ENTITY ssl-observatory.popup.text "Encrypted Web អាច​រក​ឃើញ​​ការ​វាយ​ប្រហារ
 ប្រឆាំង​កម្មវិធី​អ៊ីនធឺណិត​របស់​អ្នក​ដោយ​ផ្ញើ​វិញ្ញាបនបត្រ​ដែល​អ្នក​បាន​ទទួល​​ទៅ
 Observatory។ បើក​វា​ឬ?">
 
@@ -13,7 +13,7 @@ and auditing the certificates being presented to your browser. Would you like
 to turn it on?">-->
 
 <!ENTITY ssl-observatory.popup.title 
-"តើ HTTPS Everywhere គូរ​ប្រើ SSL Observatory ដែរ​ឬ​ទេ?">
+"តើ Encrypted Web គូរ​ប្រើ SSL Observatory ដែរ​ឬ​ទេ?">
 
 <!ENTITY ssl-observatory.popup.yes "បាទ/ចាស">
 
@@ -53,7 +53,7 @@ to turn it on?">-->
 <!ENTITY ssl-observatory.prefs.done "រួចរាល់">
 
 <!ENTITY ssl-observatory.prefs.explanation 
-"HTTPS Everywhere អាច​ប្រើ​ EFF's SSL Observatory ។  វា​មាន​ពីរ៖ (1)
+"Encrypted Web អាច​ប្រើ​ EFF's SSL Observatory ។  វា​មាន​ពីរ៖ (1)
 ផ្ញើ​ច្បាស់​ចម្លង​នៃ​វិញ្ញាបនបត្រ HTTPS ទៅ​ Observatory, ដើម្បី​ជួយ​ពួក​យើង
 ឲ្យ​រក​ឃើញ 'បុរស​នៅ​កណ្ដាល' ការ​វាយ​ប្រហារ និង​ការ​ធ្វើ​ឲ្យ​សុវត្ថិភាព​​របស់​បណ្ដាញ​ល្អ​ប្រសើរ​ឡើង; ហើយ (2)
 អនុញ្ញាត​ឲ្យ​ពួក​យើង​ប្រាប់​អ្នក​អំពី​ការ​តភ្ជាប់​ដែល​គ្មាន​សុវត្ថិភាព ឬ​ការ​វាយ​ប្រហារ​​នៅ​លើ​កម្មវិធី​អ៊ីនធឺណិត​របស់​អ្នក។">
@@ -93,7 +93,7 @@ www.something.com, ប៉ុន្តែ​អ្នក​ដែល​មិន�
 <!ENTITY ssl-observatory.warning.showcert "បង្ហាញ​ខ្សែ​ច្រវាក់​វិញ្ញាបនបត្រ">
 <!ENTITY ssl-observatory.warning.okay "ខ្ញុំ​យល់">
 <!ENTITY ssl-observatory.warning.text "EFF's SSL Observatory បាន​ចេញ​​​ការ​ព្រមាន​អំពី​វិញ្ញាបនបត្រ  HTTPS សម្រាប់​តំបន់​បណ្ដាញ​នេះ៖">
-<!ENTITY ssl-observatory.warning.defense "If you are logged in to this site, it may be advisable to change your password once you have a safe connection. (These warnings can be disabled in the &quot;SSL Observatory&quot; tab of the HTTPS Everywhere preferences dialog.)">
+<!ENTITY ssl-observatory.warning.defense "If you are logged in to this site, it may be advisable to change your password once you have a safe connection. (These warnings can be disabled in the &quot;SSL Observatory&quot; tab of the Encrypted Web preferences dialog.)">
 
 <!ENTITY ssl-observatory.prefs.self_signed
 "ដាក់​ស្នើ ហើយ​ពិនិត្យមើល​វិញ្ញាបនបត្រ​ដែល​បាន​​ចុះ​ហត្ថលេខា">

@@ -3,7 +3,7 @@
 <!ENTITY ssl-observatory.popup.later "පසුව මගෙන් අසන්න.">
 <!ENTITY ssl-observatory.popup.no "නැත">
 
-<!ENTITY ssl-observatory.popup.text "HTTPS Everywhere ඔබේ බ්‍රව්සරයට එරෙහිව ඇතිවන ආක්‍රමණ
+<!ENTITY ssl-observatory.popup.text "Encrypted Web ඔබේ බ්‍රව්සරයට එරෙහිව ඇතිවන ආක්‍රමණ
 හදුනාගන්නා අතර, ඔබට ලැබෙන සහතික නිරික්ෂණාගාරයට යවයි.
 මෙම ක්‍රියාවලිය සිදුකරනවාට ඔබ කැමතිද?">
 
@@ -13,7 +13,7 @@ and auditing the certificates being presented to your browser. Would you like
 to turn it on?">-->
 
 <!ENTITY ssl-observatory.popup.title 
-"HTTPS Everywhere SSL නිරික්ෂණාගාරය භාවිතා කල යුතුද?">
+"Encrypted Web SSL නිරික්ෂණාගාරය භාවිතා කල යුතුද?">
 
 <!ENTITY ssl-observatory.popup.yes "ඔව්">
 
@@ -53,7 +53,7 @@ to turn it on?">-->
 <!ENTITY ssl-observatory.prefs.done "කාර්යය ඉටු කරන ලදී">
 
 <!ENTITY ssl-observatory.prefs.explanation 
-"HTTPS Everywhere මගින් EFF's SSL නිරික්ෂණාගාරය භාවිතා කල හැක. මෙමගින් කර්තව්‍යයන් 2 ක් සිදුවේ: (1)
+"Encrypted Web මගින් EFF's SSL නිරික්ෂණාගාරය භාවිතා කල හැක. මෙමගින් කර්තව්‍යයන් 2 ක් සිදුවේ: (1)
 HTTPS සහතිකවල අනුපිටපත් නිරික්ෂණාගාරයට යැවීමෙන්,
 'man in the middle' ආක්‍රමණය හදුනාගැනීමට හා ජාල ආරක්ෂාව සදහා උපකාරී වේ; තවද (2)
 මෙමගින් ඔබට අනාරක්ෂිත සබැදියා හා ඔබේ බ්‍රව්සරයට එල්ලවන ආක්‍රමණය පිළිබද අනතුරු අගවයි.">
@@ -93,7 +93,7 @@ Mouseover the options for further details:">-->
 <!ENTITY ssl-observatory.warning.showcert "සහතික දාමය පෙන්වන්න ">
 <!ENTITY ssl-observatory.warning.okay "මම වටහාගතිමි">
 <!ENTITY ssl-observatory.warning.text "EFF හී SSL නිරික්ෂණාගාරය මෙම වෙබ් අඩවියෙහි HTTPS සහතික(ය) පිළිබද අවවාදයක් නිකුත් කර ඇත:">
-<!ENTITY ssl-observatory.warning.defense "If you are logged in to this site, it may be advisable to change your password once you have a safe connection. (These warnings can be disabled in the &quot;SSL Observatory&quot; tab of the HTTPS Everywhere preferences dialog.)">
+<!ENTITY ssl-observatory.warning.defense "If you are logged in to this site, it may be advisable to change your password once you have a safe connection. (These warnings can be disabled in the &quot;SSL Observatory&quot; tab of the Encrypted Web preferences dialog.)">
 
 <!ENTITY ssl-observatory.prefs.self_signed
 "යොමු කිරීමෙන් පසු ස්වයං-අත්සන් යොදන ලද සහතික පරික්ෂා කරන්න.">

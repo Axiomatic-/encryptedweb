@@ -11,14 +11,14 @@
 <!ENTITY https-everywhere.about.or "or">
 <!ENTITY https-everywhere.about.donate_eff "תרומה לEFF">
 
-<!ENTITY https-everywhere.menu.about "אודות HTTPS Everywhere">
+<!ENTITY https-everywhere.menu.about "אודות Encrypted Web">
 <!ENTITY https-everywhere.menu.observatory "העדפות SSL Observatory">
-<!ENTITY https-everywhere.menu.globalEnable "הפעל את HTTPS Everywhere">
-<!ENTITY https-everywhere.menu.globalDisable "השבת את HTTPS Everywhere">
+<!ENTITY https-everywhere.menu.globalEnable "הפעל את Encrypted Web">
+<!ENTITY https-everywhere.menu.globalDisable "השבת את Encrypted Web">
 <!ENTITY https-everywhere.menu.blockHttpRequests "Block all HTTP requests">
 <!ENTITY https-everywhere.menu.showCounter "הצג מדד">
 
-<!ENTITY https-everywhere.prefs.title "הגדרות HTTPS Everywhere">
+<!ENTITY https-everywhere.prefs.title "הגדרות Encrypted Web">
 <!ENTITY https-everywhere.prefs.enable_all "הפעל הכל">
 <!ENTITY https-everywhere.prefs.disable_all "השבת הכל">
 <!ENTITY https-everywhere.prefs.reset_defaults "איפוס לברירת מחדל">

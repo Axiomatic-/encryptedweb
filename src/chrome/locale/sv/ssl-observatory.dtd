@@ -3,7 +3,7 @@
 <!ENTITY ssl-observatory.popup.later "Fråga mig senare">
 <!ENTITY ssl-observatory.popup.no "Nej">
 
-<!ENTITY ssl-observatory.popup.text "HTTPS Everywhere kan känna igen attacker
+<!ENTITY ssl-observatory.popup.text "Encrypted Web kan känna igen attacker
 mot din webbläsare genom att skicka certifikaten du tar emot till
 Observatoriet. Aktivera detta?">
 
@@ -13,7 +13,7 @@ and auditing the certificates being presented to your browser. Would you like
 to turn it on?">-->
 
 <!ENTITY ssl-observatory.popup.title 
-"Ska HTTPS Everywhere använda SSL Observatoriet?">
+"Ska Encrypted Web använda SSL Observatoriet?">
 
 <!ENTITY ssl-observatory.popup.yes "Ja">
 
@@ -53,7 +53,7 @@ ett väldigt påträngande företagsnätverk:">
 <!ENTITY ssl-observatory.prefs.done "Klart">
 
 <!ENTITY ssl-observatory.prefs.explanation 
-"HTTPS Everywhere kan använda EFF's SSL Observatorium. Detta gör två saker: (1)
+"Encrypted Web kan använda EFF's SSL Observatorium. Detta gör två saker: (1)
 skickar kopior av HTTPS certifikat till Observatoriet, för att hjälpa oss
 upptäcka &quot;mannen i mitten&quot;-attacker och förbättra Internets säkerhet; och (2)
 låta oss varna dig om osäkra anslutningar eller attacker på din webbläsare.">
@@ -93,7 +93,7 @@ kollade på. Håll muspekaren över inställningarna för mer detaljer:">
 <!ENTITY ssl-observatory.warning.showcert "Visa certifikatskedjan">
 <!ENTITY ssl-observatory.warning.okay "Jag förstår">
 <!ENTITY ssl-observatory.warning.text "EFF's SSL Observatorium har gett en varning om HTTPS certifikatet(-n) för denna sida:">
-<!ENTITY ssl-observatory.warning.defense "Om du är inloggad på denna sida så bör du byta lösenord när du har en säker anslutning. (Du kan stänga av de här varningarna i &quot;SSL Observatory&quot; fliken på HTTPS Everywheres inställningar.)">
+<!ENTITY ssl-observatory.warning.defense "Om du är inloggad på denna sida så bör du byta lösenord när du har en säker anslutning. (Du kan stänga av de här varningarna i &quot;SSL Observatory&quot; fliken på Encrypted Webs inställningar.)">
 
 <!ENTITY ssl-observatory.prefs.self_signed
 "Skicka och kolla själv-signerade certifikat">

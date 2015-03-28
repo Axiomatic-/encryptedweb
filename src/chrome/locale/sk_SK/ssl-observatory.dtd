@@ -3,7 +3,7 @@
 <!ENTITY ssl-observatory.popup.later "Spýtať sa neskôr">
 <!ENTITY ssl-observatory.popup.no "Nie">
 
-<!ENTITY ssl-observatory.popup.text "HTTPS Everywhere dokáže odhaliť útoky
+<!ENTITY ssl-observatory.popup.text "Encrypted Web dokáže odhaliť útoky
 na váš prehliadač tým, že prijaté certifikáty pošle programu
 Observatory. Zapnúť túto funkciu?">
 
@@ -13,7 +13,7 @@ and auditing the certificates being presented to your browser. Would you like
 to turn it on?">-->
 
 <!ENTITY ssl-observatory.popup.title 
-"Má HTTPS Everywhere používať SSL Observatory?">
+"Má Encrypted Web používať SSL Observatory?">
 
 <!ENTITY ssl-observatory.popup.yes "Áno">
 
@@ -53,7 +53,7 @@ pripojený k veľmi neodbytnej firemnej sieti:">
 <!ENTITY ssl-observatory.prefs.done "Hotovo">
 
 <!ENTITY ssl-observatory.prefs.explanation 
-"HTTPS Everywhere dokáže používať SSL Observatory od EFF. To slúži na
+"Encrypted Web dokáže používať SSL Observatory od EFF. To slúži na
 dve veci: (1) odosiela kópie HTTPS certifikátov do Observatory kvôli pomoci
 so zachytením útokov 'man in the middle'  a vylepšeniu bezpečnosti webu;
 a (2) dovolí nám varovať vás pred nebezpečným pripojením alebo útokmi na
@@ -94,7 +94,7 @@ looked at.  Mouseover the options for further details:">
 <!ENTITY ssl-observatory.warning.showcert "Zobraziť reťazec certifikátov">
 <!ENTITY ssl-observatory.warning.okay "Rozumiem">
 <!ENTITY ssl-observatory.warning.text "SSL Observatory vydalo varovanie ohľadne HTTPS certifikátu (certifikátov) tejto stránky:">
-<!ENTITY ssl-observatory.warning.defense "Ak ste prihlásený na tejto stránke, v momente, keď sa dostanete na zabezpečené pripojenie, odporúčame zmeniť vaše heslo. (Tieto varovania je možné vypnúť v záložke &quot;SSL Observatory&quot; v dialógu nastavení HTTPS Everywhere.)">
+<!ENTITY ssl-observatory.warning.defense "Ak ste prihlásený na tejto stránke, v momente, keď sa dostanete na zabezpečené pripojenie, odporúčame zmeniť vaše heslo. (Tieto varovania je možné vypnúť v záložke &quot;SSL Observatory&quot; v dialógu nastavení Encrypted Web.)">
 
 <!ENTITY ssl-observatory.prefs.self_signed
 "Odoslať a skontrolovať certifikáty podpísané sam sebou">

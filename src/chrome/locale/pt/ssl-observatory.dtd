@@ -3,7 +3,7 @@
 <!ENTITY ssl-observatory.popup.later "Perguntar Mais Tarde">
 <!ENTITY ssl-observatory.popup.no "Não">
 
-<!ENTITY ssl-observatory.popup.text "HTTPS Everywhere pode detectar ataques ao seu navegador através do envio dos certificados que você recebe ao Observatory.  Ativar funcionalidade?">
+<!ENTITY ssl-observatory.popup.text "Encrypted Web pode detectar ataques ao seu navegador através do envio dos certificados que você recebe ao Observatory.  Ativar funcionalidade?">
 
 <!--<!ENTITY ssl-observatory.popup.text 
 "EFF's SSL Observatory can detect attacks against HTTPS websites by collecting
@@ -11,7 +11,7 @@ and auditing the certificates being presented to your browser. Would you like
 to turn it on?">-->
 
 <!ENTITY ssl-observatory.popup.title 
-"HTTPS Everywhere deve usar o Observatório SSL?">
+"Encrypted Web deve usar o Observatório SSL?">
 
 <!ENTITY ssl-observatory.popup.yes "Sim">
 
@@ -50,7 +50,7 @@ to turn it on?">-->
 <!ENTITY ssl-observatory.prefs.done "Completo">
 
 <!ENTITY ssl-observatory.prefs.explanation 
-"HTTPS Everywhere pode usar o Observatório SSL da EFF's. Acontecem duas coisas: (1)
+"Encrypted Web pode usar o Observatório SSL da EFF's. Acontecem duas coisas: (1)
 envia cópias dos certificados HTTPS para o Observatório, para nos ajudarem
 a detetar ataques 'man in the middle' e a melhorar a segurança na Web; e (2)
 permite-nos avisá-lo sobre ligações inseguras ou ataques ao seu navegador.">

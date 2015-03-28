@@ -3,7 +3,7 @@
 <!ENTITY ssl-observatory.popup.later "إسألني لاحقاً">
 <!ENTITY ssl-observatory.popup.no "لا">
 
-<!ENTITY ssl-observatory.popup.text "HTTPS Everywhere يمكن له أن يكتشف الهجمات
+<!ENTITY ssl-observatory.popup.text "Encrypted Web يمكن له أن يكتشف الهجمات
 ضد متصفحك عبر إرسال الشهادات التي تستقبلها إلى المرصد.
 هل تريد تشغيل هذه الخاصية؟">
 
@@ -13,7 +13,7 @@ and auditing the certificates being presented to your browser. Would you like
 to turn it on?">-->
 
 <!ENTITY ssl-observatory.popup.title 
-"هل تريد أن يستخدم HTTPS Everywhere خاصية SSL Observatory؟">
+"هل تريد أن يستخدم Encrypted Web خاصية SSL Observatory؟">
 
 <!ENTITY ssl-observatory.popup.yes "نعم">
 
@@ -52,7 +52,7 @@ to turn it on?">-->
 <!ENTITY ssl-observatory.prefs.done "انتهى">
 
 <!ENTITY ssl-observatory.prefs.explanation 
-"HTTPS Everywhere يمكن له أن يستخدم مرصد SSL من الـEFF وهذا يعني شيئين: (۱)
+"Encrypted Web يمكن له أن يستخدم مرصد SSL من الـEFF وهذا يعني شيئين: (۱)
 إرسال نسخ من شهادات HTTPS إلى المرصد لمساعدتنا على كشف هجمات 'رجل-في-الوسط'
  وتحسين الأمان على الإنترنت، و (٢) يسمح لنا بتحذيرك عن الاتصالات غير الآمنة أو الهجمات على متصفحك.">
 

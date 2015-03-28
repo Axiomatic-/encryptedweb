@@ -13,7 +13,7 @@ and auditing the certificates being presented to your browser. Would you like
 to turn it on?">-->
 
 <!ENTITY ssl-observatory.popup.title 
-"Ali naj HTTPS Everywhere uporablja SSL Observatorij?">
+"Ali naj Encrypted Web uporablja SSL Observatorij?">
 
 <!ENTITY ssl-observatory.popup.yes "Da">
 

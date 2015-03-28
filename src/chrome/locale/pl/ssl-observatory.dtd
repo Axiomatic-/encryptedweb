@@ -3,7 +3,7 @@
 <!ENTITY ssl-observatory.popup.later "Zapytaj mnie później">
 <!ENTITY ssl-observatory.popup.no "Nie">
 
-<!ENTITY ssl-observatory.popup.text "HTTPS Everywhere może wykryć ataki
+<!ENTITY ssl-observatory.popup.text "Encrypted Web może wykryć ataki
 na twoją przeglądarkę przez wysyłanie do ciebie certyfikatów, które otrzymujesz
 do &quot;SSL Observatory&quot;. Włączyć tą opcję?">
 
@@ -13,7 +13,7 @@ and auditing the certificates being presented to your browser. Would you like
 to turn it on?">-->
 
 <!ENTITY ssl-observatory.popup.title 
-"Czy HTTPS Everywhere ma używać &quot;SSL Observatory&quot;?">
+"Czy Encrypted Web ma używać &quot;SSL Observatory&quot;?">
 
 <!ENTITY ssl-observatory.popup.yes "Tak">
 
@@ -53,7 +53,7 @@ z intruzywnej sieci korporacyjnej.">
 <!ENTITY ssl-observatory.prefs.done "Gotowe">
 
 <!ENTITY ssl-observatory.prefs.explanation 
-"HTTPS Everywhere może używać EFF's SSL Observatory. Daje to dwie rzeczy: (1) 
+"Encrypted Web może używać EFF's SSL Observatory. Daje to dwie rzeczy: (1) 
 wysyła kopie certyfikatów HTTPS do SSL Observatory, pomagając nam
 wykryć ataki osób podsłuchujących; i (2)
 daje nam znać o niezabezpieczonych połączeniach lub atakach na twoją przeklądarkę.">
@@ -93,7 +93,7 @@ Najedź kursorem na opcje by zobaczyć więcej szczegółów:">
 <!ENTITY ssl-observatory.warning.showcert "Pokaż łańcuch certyfikatu">
 <!ENTITY ssl-observatory.warning.okay "Tak, rozumiem">
 <!ENTITY ssl-observatory.warning.text "EFF's SSL Observatory wystawił ostrzeżenie na temat certyfikatów HTTPS dla tej strony:">
-<!ENTITY ssl-observatory.warning.defense "Jeśli jesteś zalogowany na tej stronie, wskazana jest zmiana hasła, jak tylko będziesz mieć bezpieczne połączenie. (Te ostrzeżenia można wyłączyć w karcie &quot;Obserwatorium SSL&quot; w preferencjach HTTPS Everywhere.)">
+<!ENTITY ssl-observatory.warning.defense "Jeśli jesteś zalogowany na tej stronie, wskazana jest zmiana hasła, jak tylko będziesz mieć bezpieczne połączenie. (Te ostrzeżenia można wyłączyć w karcie &quot;Obserwatorium SSL&quot; w preferencjach Encrypted Web.)">
 
 <!ENTITY ssl-observatory.prefs.self_signed
 "Wysyłaj i sprawdzaj samopodpisane certyfikaty">

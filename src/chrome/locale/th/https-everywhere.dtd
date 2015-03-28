@@ -1,24 +1,24 @@
-<!ENTITY https-everywhere.about.title "เกี่ยวกับ HTTPS Everywhere">
-<!ENTITY https-everywhere.about.ext_name "HTTPS Everywhere">
+<!ENTITY https-everywhere.about.title "เกี่ยวกับ Encrypted Web">
+<!ENTITY https-everywhere.about.ext_name "Encrypted Web">
 <!ENTITY https-everywhere.about.ext_description "เข้ารหัสเว็บ! ใช้ความปลอดภัย HTTPS โดยอัตโนมัติกับหลายเว็บไซต์">
 <!ENTITY https-everywhere.about.version "รุ่น">
 <!ENTITY https-everywhere.about.created_by "สร้างโดย">
 <!ENTITY https-everywhere.about.librarians "คลังกฎ">
 <!ENTITY https-everywhere.about.thanks "ขอบคุณ">
-<!ENTITY https-everywhere.about.contribute  "ถ้าคุณชอบ HTTPS Everywhere คุณอาจพิจารณา">
+<!ENTITY https-everywhere.about.contribute  "ถ้าคุณชอบ Encrypted Web คุณอาจพิจารณา">
 <!ENTITY https-everywhere.about.donate_tor "บริจาคให้กับ Tor">
 <!ENTITY https-everywhere.about.tor_lang_code "en">
 <!ENTITY https-everywhere.about.or "หรือ">
 <!ENTITY https-everywhere.about.donate_eff "บริจาคให้กับ EFF">
 
-<!ENTITY https-everywhere.menu.about "เกี่ยวกับ HTTPS Everywhere">
+<!ENTITY https-everywhere.menu.about "เกี่ยวกับ Encrypted Web">
 <!ENTITY https-everywhere.menu.observatory "ปรับแต่งหอสำรวจ SSL">
-<!ENTITY https-everywhere.menu.globalEnable "เปิดใช้ HTTPS Everywhere">
-<!ENTITY https-everywhere.menu.globalDisable "ปิดใช้ HTTPS Everywhere">
+<!ENTITY https-everywhere.menu.globalEnable "เปิดใช้ Encrypted Web">
+<!ENTITY https-everywhere.menu.globalDisable "ปิดใช้ Encrypted Web">
 <!ENTITY https-everywhere.menu.blockHttpRequests "หยุดการเชื่อมต่อผ่าน HTTP">
 <!ENTITY https-everywhere.menu.showCounter "แสดงตัวนับ">
 
-<!ENTITY https-everywhere.prefs.title "ปรับแต่ง HTTPS Everywhere">
+<!ENTITY https-everywhere.prefs.title "ปรับแต่ง Encrypted Web">
 <!ENTITY https-everywhere.prefs.enable_all "เปิดใช้ทั้งหมด">
 <!ENTITY https-everywhere.prefs.disable_all "ปิดใช้ทั้งหมด">
 <!ENTITY https-everywhere.prefs.reset_defaults "ล้างเป็นค่าตั้งต้น">
@@ -37,10 +37,10 @@
 <!ENTITY https-everywhere.source.filename "ชื่อแฟ้ม">
 <!ENTITY https-everywhere.source.unable_to_download "ไม่สามารถดาวน์โหลดได้">
 
-<!ENTITY https-everywhere.popup.title "HTTPS Everywhere 4.0development.11 notification">
-<!ENTITY https-everywhere.popup.paragraph1 "เอ๊ะ! คุณเคยใช้รุ่นเสถียรของ HTTPS Everywhere แต่เราอาจจะเผลอปรับรุ่นไปยังรุ่นพัฒนาในการปรับรุ่นครั้งล่าสุด">
+<!ENTITY https-everywhere.popup.title "Encrypted Web 4.0development.11 notification">
+<!ENTITY https-everywhere.popup.paragraph1 "เอ๊ะ! คุณเคยใช้รุ่นเสถียรของ Encrypted Web แต่เราอาจจะเผลอปรับรุ่นไปยังรุ่นพัฒนาในการปรับรุ่นครั้งล่าสุด">
 <!ENTITY https-everywhere.popup.paragraph2 "คุณต้องการกลับไปยังรุ่นเสถียรหรือไม่?">
-<!ENTITY https-everywhere.popup.paragraph3 "เรายินดีหากคุณยังคงใช้รุ่นพัฒนา และช่วยเราทำให้ HTTPS Everywhere ดีขั้น คุณอาจพบบั้ก ซึ่งคุณสามารถรายงานไปที่ https-everywhere@eff.org ขออภัยในความไม่สะดวกและขอบคุณที่ใช้ HTTPS Everywhere">
+<!ENTITY https-everywhere.popup.paragraph3 "เรายินดีหากคุณยังคงใช้รุ่นพัฒนา และช่วยเราทำให้ Encrypted Web ดีขั้น คุณอาจพบบั้ก ซึ่งคุณสามารถรายงานไปที่ https-everywhere@eff.org ขออภัยในความไม่สะดวกและขอบคุณที่ใช้ Encrypted Web">
 <!ENTITY https-everywhere.popup.keep "คงอยู่ในรุ่นพัฒนา">
 <!ENTITY https-everywhere.popup.revert "ดาวน์โหลดรุ่นเสถียรล่าสุด">
 

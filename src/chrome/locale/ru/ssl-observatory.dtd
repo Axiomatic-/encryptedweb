@@ -3,7 +3,7 @@
 <!ENTITY ssl-observatory.popup.later "Спросить позже">
 <!ENTITY ssl-observatory.popup.no "Нет">
 
-<!ENTITY ssl-observatory.popup.text "HTTPS Everywhere может распознавать атаки на Ваш браузер,
+<!ENTITY ssl-observatory.popup.text "Encrypted Web может распознавать атаки на Ваш браузер,
 путём отправки получаемых сертификатов в SSL Observatory.
 Включить данную опцию?">
 
@@ -13,7 +13,7 @@ and auditing the certificates being presented to your browser. Would you like
 to turn it on?">-->
 
 <!ENTITY ssl-observatory.popup.title 
-"Должен ли HTTPS Everywhere использовать SSL Observatory?">
+"Должен ли Encrypted Web использовать SSL Observatory?">
 
 <!ENTITY ssl-observatory.popup.yes "Да">
 
@@ -67,7 +67,7 @@ SSL Observatory к какому провайдеру Вы подключены">
 <!ENTITY ssl-observatory.prefs.done "Готово">
 
 <!ENTITY ssl-observatory.prefs.explanation 
-"HTTPS Everywhere может использовать SSL Observatory. Это
+"Encrypted Web может использовать SSL Observatory. Это
 обеспечивает две вещи: (1) отправляет копии сертификатов в SSL
 Observatory, что бы помочь нам определить атаки 'человек
 посередине' и улучшить безопасность Веб; и (2) позволяет нам
@@ -114,7 +114,7 @@ Mouseover the options for further details:">-->
 <!ENTITY ssl-observatory.warning.okay "Я понимаю">
 <!ENTITY ssl-observatory.warning.text "SSL Observatory выдал предупреждение
 для сертификат(-а/-ов) данного сайта:">
-<!ENTITY ssl-observatory.warning.defense "Если Вы залогинились на этом сайте, может быть целесообразным поменять пароль, как только Вы переключитесь на безопасное соединение. (Эти предупреждения можно отключить во вкладке &quot;SSL Observatory&quot; на вкладке настроек HTTPS Everywhere.)">
+<!ENTITY ssl-observatory.warning.defense "Если Вы залогинились на этом сайте, может быть целесообразным поменять пароль, как только Вы переключитесь на безопасное соединение. (Эти предупреждения можно отключить во вкладке &quot;SSL Observatory&quot; на вкладке настроек Encrypted Web.)">
 
 <!ENTITY ssl-observatory.prefs.self_signed
 "Подтвердите и проверьте собственные сертификаты">

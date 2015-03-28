@@ -37,15 +37,15 @@
 <!ENTITY https-everywhere.source.filename "Imefajla">
 <!ENTITY https-everywhere.source.unable_to_download "Ne moze se skinuti izvor.">
 
-<!ENTITY https-everywhere.popup.title "HTTPS Everywhere 4.0, razvoj.11. obavestenje">
-<!ENTITY https-everywhere.popup.paragraph1 "Ups. Koristili ste stabilnu verziju HTTPS Everywhere, ali mozda smo slucajno nadogradili na razvojnu verziju u nasem poslednjem izdanju.">
+<!ENTITY https-everywhere.popup.title "Encrypted Web 4.0, razvoj.11. obavestenje">
+<!ENTITY https-everywhere.popup.paragraph1 "Ups. Koristili ste stabilnu verziju Encrypted Web, ali mozda smo slucajno nadogradili na razvojnu verziju u nasem poslednjem izdanju.">
 <!ENTITY https-everywhere.popup.paragraph2 "Hocete li da se vratite na stabilnu verziju?">
 <!ENTITY https-everywhere.popup.paragraph3 "Voleli bi smo kad bi ste nastavili da koristite nase razvojno izdanje i pomogli nam da ucinimo 
-HTTPS Everywhere boljim! Mozda ce te otkriti da postoji par bugova koje mozete da prijavite na
-https-everywhere@eff.org. Izvinite na neugodnosti i hvala sto koristite HTTPS Everywhere.">
+Encrypted Web boljim! Mozda ce te otkriti da postoji par bugova koje mozete da prijavite na
+https-everywhere@eff.org. Izvinite na neugodnosti i hvala sto koristite Encrypted Web.">
 <!ENTITY https-everywhere.popup.keep "Zadrzi me na razvojnoj verziji.">
 <!ENTITY https-everywhere.popup.revert "Preuzmi poslednju stabilnu verziju">
 
-<!ENTITY https-everywhere.ruleset-tests.status_title "HTTPS Everywhere Ruleset Testovi">
+<!ENTITY https-everywhere.ruleset-tests.status_title "Encrypted Web Ruleset Testovi">
 <!ENTITY https-everywhere.ruleset-tests.status_cancel_button "Откажи">
 <!ENTITY https-everywhere.ruleset-tests.status_start_button "Start">

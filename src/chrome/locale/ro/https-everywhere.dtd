@@ -37,7 +37,7 @@
 <!ENTITY https-everywhere.source.filename "Nume fișier">
 <!ENTITY https-everywhere.source.unable_to_download "Nu se poate descărca sursa.">
 
-<!ENTITY https-everywhere.popup.title "Notificare HTTPS Everywhere 4.0development.11">
+<!ENTITY https-everywhere.popup.title "Notificare Encrypted Web 4.0development.11">
 <!ENTITY https-everywhere.popup.paragraph1 "Foloseai versiunea stabilă de HTTPS Oriunde dar accidental te-am actualizat la versiunea de dezvoltare la ultima noastră lansare.">
 <!ENTITY https-everywhere.popup.paragraph2 "Vrei să te întorci la versiunea stabilă?">
 <!ENTITY https-everywhere.popup.paragraph3 "Ne-ar plăcea dacă ai continua să folosești versiunea de dezvoltare, ajutându-ne să facem HTTPS Oriunde mai bună! Ai putea găsi câteva hibe pe alocuri pe care le poți raporta la https-everywhere@eff.org.

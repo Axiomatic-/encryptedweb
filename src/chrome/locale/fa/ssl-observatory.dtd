@@ -84,7 +84,7 @@ Mouseover the options for further details:">-->
 <!ENTITY ssl-observatory.warning.showcert "نمایش زنجیره‌ٔ گواهینامه">
 <!ENTITY ssl-observatory.warning.okay "می‌فهمم">
 <!ENTITY ssl-observatory.warning.text "رصدگر SSLی که توسط EFF اداره می‌شود برای گواهینامه(ها)ی HTTPS این وب‌سایت هشدار صادر کرده‌است:">
-<!ENTITY ssl-observatory.warning.defense "هنگامی که وارد این سایت شدید، پیشنهاد می‌شود با برقراری یک ارتباط امن، کلمهٔ عبور خود را تغییر دهید. (این هشدارها را می‌توانید در سربرگ «رصدگر SSL» در تنظیمات «HTTPS Everywhere» غیرفعال کنید.)">
+<!ENTITY ssl-observatory.warning.defense "هنگامی که وارد این سایت شدید، پیشنهاد می‌شود با برقراری یک ارتباط امن، کلمهٔ عبور خود را تغییر دهید. (این هشدارها را می‌توانید در سربرگ «رصدگر SSL» در تنظیمات «Encrypted Web» غیرفعال کنید.)">
 
 <!ENTITY ssl-observatory.prefs.self_signed
 "ارسال و گواهینامه های خود-امضا را بررسی کن">

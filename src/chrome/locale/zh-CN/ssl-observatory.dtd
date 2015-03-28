@@ -4,7 +4,7 @@
 <!ENTITY ssl-observatory.popup.no "否">
 
 <!ENTITY ssl-observatory.popup.text "通过将接收到的证书
-提交至 Observatory，HTTPS Everywhere 能够检测针对浏览器的攻击。
+提交至 Observatory，Encrypted Web 能够检测针对浏览器的攻击。
 是否启用该功能？">
 
 <!--<!ENTITY ssl-observatory.popup.text 
@@ -13,7 +13,7 @@ and auditing the certificates being presented to your browser. Would you like
 to turn it on?">-->
 
 <!ENTITY ssl-observatory.popup.title 
-"是否允许 HTTPS Everywhere 使用 SSL Observatory？">
+"是否允许 Encrypted Web 使用 SSL Observatory？">
 
 <!ENTITY ssl-observatory.popup.yes "是">
 
@@ -52,7 +52,7 @@ to turn it on?">-->
 <!ENTITY ssl-observatory.prefs.done "完成">
 
 <!ENTITY ssl-observatory.prefs.explanation 
-"HTTPS Everywhere 可以使用 EFF 的 SSL 观测站 。 这有两个功能：(1) 将 HTTPS 数字证书寄送到观测站，以协助我们侦测中间人式的攻击并改善网络的安全性；(2)针对不安全的连接以及对你的浏览器进行的攻击，向你发出警告。">
+"Encrypted Web 可以使用 EFF 的 SSL 观测站 。 这有两个功能：(1) 将 HTTPS 数字证书寄送到观测站，以协助我们侦测中间人式的攻击并改善网络的安全性；(2)针对不安全的连接以及对你的浏览器进行的攻击，向你发出警告。">
 
 <!--<!ENTITY ssl-observatory.prefs.explanation2
 "When you visit https://www.example.com, the Observatory will learn that
@@ -86,7 +86,7 @@ Mouseover the options for further details:">-->
 <!ENTITY ssl-observatory.warning.showcert "显示数字证书链">
 <!ENTITY ssl-observatory.warning.okay "我已了解">
 <!ENTITY ssl-observatory.warning.text "EFF 的 SSL 观测站已对该 HTTPS 数字证书发出警告：">
-<!ENTITY ssl-observatory.warning.defense "如果已登录网站，建议使用安全连接修改密码。（这些警告可以在 HTTPS Everywhere 首选项的“SSL Observatory”选项卡中禁用。）">
+<!ENTITY ssl-observatory.warning.defense "如果已登录网站，建议使用安全连接修改密码。（这些警告可以在 Encrypted Web 首选项的“SSL Observatory”选项卡中禁用。）">
 
 <!ENTITY ssl-observatory.prefs.self_signed
 "提交并检查自签名证书">

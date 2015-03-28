@@ -1,24 +1,24 @@
-<!ENTITY https-everywhere.about.title "Tietoja HTTPS Everywheresta">
+<!ENTITY https-everywhere.about.title "Tietoja Encrypted Websta">
 <!ENTITY https-everywhere.about.ext_name "HTTPS Kaikkialla">
 <!ENTITY https-everywhere.about.ext_description "Salaa verkko automaattisesti käyttäen HTTPS-suojausta monilla sivuilla!">
 <!ENTITY https-everywhere.about.version "Versio">
 <!ENTITY https-everywhere.about.created_by "Tekijät:">
 <!ENTITY https-everywhere.about.librarians "Sääntöjen hallinnoijat">
 <!ENTITY https-everywhere.about.thanks "Kiitokset">
-<!ENTITY https-everywhere.about.contribute  "Jos pidät HTTPS Everywheresta, voit harkita">
+<!ENTITY https-everywhere.about.contribute  "Jos pidät Encrypted Websta, voit harkita">
 <!ENTITY https-everywhere.about.donate_tor "Lahjoita Tor-sovellukselle.">
 <!ENTITY https-everywhere.about.tor_lang_code "en">
 <!ENTITY https-everywhere.about.or "tai">
 <!ENTITY https-everywhere.about.donate_eff "Lahjoita EFFille">
 
-<!ENTITY https-everywhere.menu.about "Tietoja HTTPS Everywheresta">
+<!ENTITY https-everywhere.menu.about "Tietoja Encrypted Websta">
 <!ENTITY https-everywhere.menu.observatory "SSL Observatoryn asetukset">
-<!ENTITY https-everywhere.menu.globalEnable "Ota HTTPS Everywhere käyttöön">
-<!ENTITY https-everywhere.menu.globalDisable "Poista HTTPS Everywhere käytöstä">
+<!ENTITY https-everywhere.menu.globalEnable "Ota Encrypted Web käyttöön">
+<!ENTITY https-everywhere.menu.globalDisable "Poista Encrypted Web käytöstä">
 <!ENTITY https-everywhere.menu.blockHttpRequests "Estä kaikki HTTP-pyynnöt">
 <!ENTITY https-everywhere.menu.showCounter "Näytä laskuri">
 
-<!ENTITY https-everywhere.prefs.title "HTTPS Everywheren asetukset">
+<!ENTITY https-everywhere.prefs.title "Encrypted Webn asetukset">
 <!ENTITY https-everywhere.prefs.enable_all "Ota kaikki käyttöön">
 <!ENTITY https-everywhere.prefs.disable_all "Poista kaikki käytöstä">
 <!ENTITY https-everywhere.prefs.reset_defaults "Palauta oletusarvoihin">
@@ -37,13 +37,13 @@
 <!ENTITY https-everywhere.source.filename "Tiedostonimi">
 <!ENTITY https-everywhere.source.unable_to_download "Lähteen lataaminen epäonnistui.">
 
-<!ENTITY https-everywhere.popup.title "HTTPS Everywhere 4.0kehitys.11 ilmoitus">
-<!ENTITY https-everywhere.popup.paragraph1 "Hups. Käytit HTTPS Everywheren vakaata versiota, mutta olemme ehkä vahingossa päivittäneet sen kehitysversioon uusimmassa julkaisussamme.">
+<!ENTITY https-everywhere.popup.title "Encrypted Web 4.0kehitys.11 ilmoitus">
+<!ENTITY https-everywhere.popup.paragraph1 "Hups. Käytit Encrypted Webn vakaata versiota, mutta olemme ehkä vahingossa päivittäneet sen kehitysversioon uusimmassa julkaisussamme.">
 <!ENTITY https-everywhere.popup.paragraph2 "Tahtoisitko palata vakaaseen versioon?">
-<!ENTITY https-everywhere.popup.paragraph3 "Toivomme, että jatkat kehitysversion käyttöä ja autat meitä tekemään HTTPS Everywerestä entistä paremman! Saatat löytää bugeja, jotka voit raportoida https-everywhere@eff.org osoitteeseen. Pahoittelumme vaivasta, ja kiitos, että käytät HTTPS Everywhereä.">
+<!ENTITY https-everywhere.popup.paragraph3 "Toivomme, että jatkat kehitysversion käyttöä ja autat meitä tekemään HTTPS Everywerestä entistä paremman! Saatat löytää bugeja, jotka voit raportoida https-everywhere@eff.org osoitteeseen. Pahoittelumme vaivasta, ja kiitos, että käytät Encrypted Webä.">
 <!ENTITY https-everywhere.popup.keep "Jatka kehitysversion käyttöä">
 <!ENTITY https-everywhere.popup.revert "Lataa viimeisin vakaa versio">
 
-<!ENTITY https-everywhere.ruleset-tests.status_title "HTTPS Everywhere -sääntötestit">
+<!ENTITY https-everywhere.ruleset-tests.status_title "Encrypted Web -sääntötestit">
 <!ENTITY https-everywhere.ruleset-tests.status_cancel_button "Peruuta">
 <!ENTITY https-everywhere.ruleset-tests.status_start_button "Käynnistä">

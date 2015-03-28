@@ -3,7 +3,7 @@
 <!ENTITY ssl-observatory.popup.later "後で通知する">
 <!ENTITY ssl-observatory.popup.no "いいえ">
 
-<!ENTITY ssl-observatory.popup.text "HTTPS EverywhereはObservatoryに受け取る証明書を送信することで、あなたのブラウザに対する攻撃を検知できます。これを有効にしますか？">
+<!ENTITY ssl-observatory.popup.text "Encrypted WebはObservatoryに受け取る証明書を送信することで、あなたのブラウザに対する攻撃を検知できます。これを有効にしますか？">
 
 <!--<!ENTITY ssl-observatory.popup.text 
 "EFF's SSL Observatory can detect attacks against HTTPS websites by collecting
@@ -11,7 +11,7 @@ and auditing the certificates being presented to your browser. Would you like
 to turn it on?">-->
 
 <!ENTITY ssl-observatory.popup.title 
-"HTTPS EverywhereはSSL Observatoryを使用するべきですか？">
+"Encrypted WebはSSL Observatoryを使用するべきですか？">
 
 <!ENTITY ssl-observatory.popup.yes "はい">
 
@@ -50,7 +50,7 @@ to turn it on?">-->
 <!ENTITY ssl-observatory.prefs.done "完了">
 
 <!ENTITY ssl-observatory.prefs.explanation 
-"HTTPS EverywhereはEFFのSSL Observatoryを使用することができます。これは２つの働きをします: (1)
+"Encrypted WebはEFFのSSL Observatoryを使用することができます。これは２つの働きをします: (1)
 私たちが中間者攻撃を検出し、ウェブセキュリティを向上させるのを支援するために、HTTP証明書のコピーを観測所に送信します。
 そして、(2)
 私たちが安全でない接続やブラウザへの攻撃を警告できるようにします。">
@@ -87,7 +87,7 @@ Mouseover the options for further details:">-->
 <!ENTITY ssl-observatory.warning.showcert "証明書のチェーンを表示">
 <!ENTITY ssl-observatory.warning.okay "了解します">
 <!ENTITY ssl-observatory.warning.text "EFFのSSL ObservatoryはこのサイトへのHTTPS証明書についての警告を出しました。()">
-<!ENTITY ssl-observatory.warning.defense "このサイトにログインしているなら、安全な接続を確保してから、パスワードを変更することが推奨される場合があります。 (これらの警告は、 HTTPS Everywhere 設定ダイアログの 「 SSL Observatory 」 タブで無効にすることができます。)">
+<!ENTITY ssl-observatory.warning.defense "このサイトにログインしているなら、安全な接続を確保してから、パスワードを変更することが推奨される場合があります。 (これらの警告は、 Encrypted Web 設定ダイアログの 「 SSL Observatory 」 タブで無効にすることができます。)">
 
 <!ENTITY ssl-observatory.prefs.self_signed
 "自己署名の証明書を確認して提供する">

@@ -3,7 +3,7 @@
 <!ENTITY ssl-observatory.popup.later "Beranduago galdeidazu">
 <!ENTITY ssl-observatory.popup.no "Ez">
 
-<!ENTITY ssl-observatory.popup.text "HTTPS Everywherek zure nabigatzailearen aurkako erasoak antzeman ditzake jaso dituzun ziurtagiriak Behatokira bidaliz. Gaitu hau?">
+<!ENTITY ssl-observatory.popup.text "Encrypted Webk zure nabigatzailearen aurkako erasoak antzeman ditzake jaso dituzun ziurtagiriak Behatokira bidaliz. Gaitu hau?">
 
 <!--<!ENTITY ssl-observatory.popup.text 
 "EFF's SSL Observatory can detect attacks against HTTPS websites by collecting
@@ -11,7 +11,7 @@ and auditing the certificates being presented to your browser. Would you like
 to turn it on?">-->
 
 <!ENTITY ssl-observatory.popup.title 
-"HTTPS Everywherek SSL Behatokia erabili beharko luke?">
+"Encrypted Webk SSL Behatokia erabili beharko luke?">
 
 <!ENTITY ssl-observatory.popup.yes "Bai">
 
@@ -50,7 +50,7 @@ to turn it on?">-->
 <!ENTITY ssl-observatory.prefs.done "Eginda">
 
 <!ENTITY ssl-observatory.prefs.explanation 
-"HTTPS Everywherek EFFren SSL Behatokia erabili dezake. Honek bi gauza egiten ditu: (1)
+"Encrypted Webk EFFren SSL Behatokia erabili dezake. Honek bi gauza egiten ditu: (1)
 HTTPS ziurtagirien kopiak Behatokira bidaltzen ditu, 'man in the middle' erasoak detektatzen eta Webguneen segurtasuna hobetzen lagun gaitzan; eta (2)
 seguruak ez diren konexioetaz edo zure nabigatzailearen aurkako erasoetaz abisa zaitzagun baimentzen digu.">
 
@@ -88,7 +88,7 @@ Xehetasun gehiagorako pasa ezazu sagua aukeren gainetik:">
 <!ENTITY ssl-observatory.warning.showcert "Ziurtagiri katea erakutsi">
 <!ENTITY ssl-observatory.warning.okay "Ulertzen dut">
 <!ENTITY ssl-observatory.warning.text "EFFren SSL Behatokiak leku honen HTTPS ziurtagiri(ar)entzako abisua igorri du:">
-<!ENTITY ssl-observatory.warning.defense "Webgune honetan saioa hasi baduzu, komeni litzateke konexio seguru bat duzunean pasahitza aldatzea. (Abisu hauek HTTPS Everywhereren &quot;SSL Behatokia&quot; hobespenen fitxan ezgaitu daitezke.)">
+<!ENTITY ssl-observatory.warning.defense "Webgune honetan saioa hasi baduzu, komeni litzateke konexio seguru bat duzunean pasahitza aldatzea. (Abisu hauek Encrypted Webren &quot;SSL Behatokia&quot; hobespenen fitxan ezgaitu daitezke.)">
 
 <!ENTITY ssl-observatory.prefs.self_signed
 "Bidali eta egiaztatu norberak-sinatutako ziurtagiriak">

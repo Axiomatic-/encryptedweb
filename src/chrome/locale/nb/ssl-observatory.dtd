@@ -3,7 +3,7 @@
 <!ENTITY ssl-observatory.popup.later "Spør Meg Senere">
 <!ENTITY ssl-observatory.popup.no "Nei">
 
-<!ENTITY ssl-observatory.popup.text "HTTPS Everywhere kan oppdage angrep
+<!ENTITY ssl-observatory.popup.text "Encrypted Web kan oppdage angrep
 mot nettleseren din ved å sende sertifikatene du mottar til
 Observatory. Aktivere dette?">
 
@@ -13,7 +13,7 @@ and auditing the certificates being presented to your browser. Would you like
 to turn it on?">-->
 
 <!ENTITY ssl-observatory.popup.title 
-"Skal HTTPS Everywhere bruke SSL Observatory?">
+"Skal Encrypted Web bruke SSL Observatory?">
 
 <!ENTITY ssl-observatory.popup.yes "Ja">
 
@@ -54,7 +54,7 @@ Uheldigvis kan vi ikke garantere at vi vil flagge alle sertifikater som er opphe
 <!ENTITY ssl-observatory.prefs.done "Ferdig">
 
 <!ENTITY ssl-observatory.prefs.explanation 
-"HTTPS Everywhere kan bruke EFF's SSL Observatory.  Dette gjør to ting: (1)
+"Encrypted Web kan bruke EFF's SSL Observatory.  Dette gjør to ting: (1)
 sender kopier av HTTPS sertifikater til Observatory, for å hjelpe oss å
 avsløre 'mellommann'-angrep og forbedre sikkerheten på nettet; og (2)
 lar oss advare deg mot usikre tilkoblinger og angrep på nettleseren din.">
@@ -94,7 +94,7 @@ de så på. Hold muspekeren over innstillingene for flere detaljer:">
 <!ENTITY ssl-observatory.warning.showcert "Vis sertifikatkjede">
 <!ENTITY ssl-observatory.warning.okay "Jeg forstår">
 <!ENTITY ssl-observatory.warning.text "EFF's SSL Observatory har utstedt en advarsel om bruk av HTTPS sertifikatene på denne siden:">
-<!ENTITY ssl-observatory.warning.defense "Hvis du er logget inn på denne siden, så kan det være en god idé å endre passordet ditt så snart du har en sikker tilkobling. (Disse advarslene kan deaktiveres i &quot;SSL Observatory&quot; fanen under instillinger i HTTPS Everywhere).">
+<!ENTITY ssl-observatory.warning.defense "Hvis du er logget inn på denne siden, så kan det være en god idé å endre passordet ditt så snart du har en sikker tilkobling. (Disse advarslene kan deaktiveres i &quot;SSL Observatory&quot; fanen under instillinger i Encrypted Web).">
 
 <!ENTITY ssl-observatory.prefs.self_signed
 "Send og sjekk selvsignerte sertifikater">

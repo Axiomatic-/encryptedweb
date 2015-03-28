@@ -3,7 +3,7 @@
 <!ENTITY ssl-observatory.popup.later "Vprašaj me kasneje">
 <!ENTITY ssl-observatory.popup.no "Ne">
 
-<!ENTITY ssl-observatory.popup.text "HTTPS Everywhere lahko zazna napade
+<!ENTITY ssl-observatory.popup.text "Encrypted Web lahko zazna napade
 na vaš brskalnik tako, da pošlje certifikate ki jih prejmete v
 Observatorij. Želite to vključiti?">
 
@@ -13,7 +13,7 @@ and auditing the certificates being presented to your browser. Would you like
 to turn it on?">-->
 
 <!ENTITY ssl-observatory.popup.title 
-"Ali naj HTTPS Everywhere uporablja SSL Observatorij?">
+"Ali naj Encrypted Web uporablja SSL Observatorij?">
 
 <!ENTITY ssl-observatory.popup.yes "Da">
 
@@ -53,7 +53,7 @@ vsiljivo poslovno omrežje:">
 <!ENTITY ssl-observatory.prefs.done "Končano">
 
 <!ENTITY ssl-observatory.prefs.explanation 
-"HTTPS Everywhere lahko uporablja EFF SSL Observatorij.  S tem naredi dvoje: (1)
+"Encrypted Web lahko uporablja EFF SSL Observatorij.  S tem naredi dvoje: (1)
 pošlje kopije HTTPS certifikatov observatoriju, da nam pomaga odkriti napade 'man in the middle' in izboljšati varnost medmrežja; (2)
 nam omogoči, da vas opozorimo na nevarne povezave ali napade na vaš brskalnik.">
 
@@ -90,7 +90,7 @@ Pridržite miško nad možnosti za več podrobnosti:">
 <!ENTITY ssl-observatory.warning.showcert "Pokaži certifikatno verigo">
 <!ENTITY ssl-observatory.warning.okay "Razumem">
 <!ENTITY ssl-observatory.warning.text "EFF SSL Observatorij je izdal opozorilo za HTTPS certifikat(e) za to stran:">
-<!ENTITY ssl-observatory.warning.defense "Če ste vpisani na tej strani je priporočljivo da spremenite geslo, ko boste varno povezani. (Ta opozorila lahko onemogočite v nastavitvah HTTPS Everywhere, v zavihku &quot;SSL Observatorij&quot;.)">
+<!ENTITY ssl-observatory.warning.defense "Če ste vpisani na tej strani je priporočljivo da spremenite geslo, ko boste varno povezani. (Ta opozorila lahko onemogočite v nastavitvah Encrypted Web, v zavihku &quot;SSL Observatorij&quot;.)">
 
 <!ENTITY ssl-observatory.prefs.self_signed
 "Predložite in preverite samopodpisana potrdila">

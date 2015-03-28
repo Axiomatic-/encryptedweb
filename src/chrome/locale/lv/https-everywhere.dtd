@@ -1,24 +1,24 @@
-<!ENTITY https-everywhere.about.title "Par HTTPS Everywhere">
-<!ENTITY https-everywhere.about.ext_name "HTTPS Everywhere">
+<!ENTITY https-everywhere.about.title "Par Encrypted Web">
+<!ENTITY https-everywhere.about.ext_name "Encrypted Web">
 <!ENTITY https-everywhere.about.ext_description "Šifrēt tīmekli! Automātiski lietot HTTPS drošību daudzās vietnēs.">
 <!ENTITY https-everywhere.about.version "Versija">
 <!ENTITY https-everywhere.about.created_by "Autori">
 <!ENTITY https-everywhere.about.librarians "Ruleset Librarians">
 <!ENTITY https-everywhere.about.thanks "Pateicoties">
-<!ENTITY https-everywhere.about.contribute  "ja Jums patīk HTTPS Everywhere, iespējams vēlaties">
+<!ENTITY https-everywhere.about.contribute  "ja Jums patīk Encrypted Web, iespējams vēlaties">
 <!ENTITY https-everywhere.about.donate_tor "ziedot Tor'am">
 <!ENTITY https-everywhere.about.tor_lang_code "an">
 <!ENTITY https-everywhere.about.or "or">
 <!ENTITY https-everywhere.about.donate_eff "ziedot EFF'am">
 
-<!ENTITY https-everywhere.menu.about "Par HTTPS Everywhere">
+<!ENTITY https-everywhere.menu.about "Par Encrypted Web">
 <!ENTITY https-everywhere.menu.observatory "SSL Observatory preferences">
-<!ENTITY https-everywhere.menu.globalEnable "Iespējot HTTPS Everywhere">
-<!ENTITY https-everywhere.menu.globalDisable "Atspējot HTTPS Everywhere">
+<!ENTITY https-everywhere.menu.globalEnable "Iespējot Encrypted Web">
+<!ENTITY https-everywhere.menu.globalDisable "Atspējot Encrypted Web">
 <!ENTITY https-everywhere.menu.blockHttpRequests "Block all HTTP requests">
 <!ENTITY https-everywhere.menu.showCounter "Rādījumu skaitītājs">
 
-<!ENTITY https-everywhere.prefs.title "HTTPS Everywhere preferences">
+<!ENTITY https-everywhere.prefs.title "Encrypted Web preferences">
 <!ENTITY https-everywhere.prefs.enable_all "Iespējot visus">
 <!ENTITY https-everywhere.prefs.disable_all "Atspējot visus">
 <!ENTITY https-everywhere.prefs.reset_defaults "Atiestatīt uz noklusējuma vērtībām">
@@ -37,13 +37,13 @@
 <!ENTITY https-everywhere.source.filename "Datnes_nosaukums">
 <!ENTITY https-everywhere.source.unable_to_download "Nevar lejupielādēt avotu.">
 
-<!ENTITY https-everywhere.popup.title "HTTPS Everywhere 4.0development.11 paziņojums">
-<!ENTITY https-everywhere.popup.paragraph1 "Opā! Jūs lietojāt stabilu HTTPS Everywhere versiju, bet, iespējams, mūsu jaunākajā laidienā mēs nejauši jauninājām Jūsu līdzšinējo versiju ar izstrādātāju versiju.">
+<!ENTITY https-everywhere.popup.title "Encrypted Web 4.0development.11 paziņojums">
+<!ENTITY https-everywhere.popup.paragraph1 "Opā! Jūs lietojāt stabilu Encrypted Web versiju, bet, iespējams, mūsu jaunākajā laidienā mēs nejauši jauninājām Jūsu līdzšinējo versiju ar izstrādātāju versiju.">
 <!ENTITY https-everywhere.popup.paragraph2 "Vai vēlaties atgriezties pie stabilās versijas?">
-<!ENTITY https-everywhere.popup.paragraph3 "Mēs ļoti priecātos, ja Jūs turpinātu lietot izstrādātāju versiju un palīdzētu padarīt HTTPS Everywhere labāku! Iespējams, ka laiku pa laikam pamanīsit kādas kļūdas, par kurām varat ziņot rakstot angļu valodā https-everywhere@eff.org . Atvainojamies par sagādātajām neērtībām un pateicamies par to, ka lietojat HTTPS Everywhere.">
+<!ENTITY https-everywhere.popup.paragraph3 "Mēs ļoti priecātos, ja Jūs turpinātu lietot izstrādātāju versiju un palīdzētu padarīt Encrypted Web labāku! Iespējams, ka laiku pa laikam pamanīsit kādas kļūdas, par kurām varat ziņot rakstot angļu valodā https-everywhere@eff.org . Atvainojamies par sagādātajām neērtībām un pateicamies par to, ka lietojat Encrypted Web.">
 <!ENTITY https-everywhere.popup.keep "Izvēlos strādāt ar izstrādātāja versiju">
 <!ENTITY https-everywhere.popup.revert "Lejuplādēt jaunāko stabilo versiju">
 
-<!ENTITY https-everywhere.ruleset-tests.status_title "HTTPS Everywhere kārtulu kopas pārbaudes">
+<!ENTITY https-everywhere.ruleset-tests.status_title "Encrypted Web kārtulu kopas pārbaudes">
 <!ENTITY https-everywhere.ruleset-tests.status_cancel_button "Atcelt">
 <!ENTITY https-everywhere.ruleset-tests.status_start_button "Startēt">

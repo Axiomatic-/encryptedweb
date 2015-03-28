@@ -3,7 +3,7 @@
 <!ENTITY ssl-observatory.popup.later "Питане по-късно">
 <!ENTITY ssl-observatory.popup.no "Не">
 
-<!ENTITY ssl-observatory.popup.text "HTTPS Everywhere може да засече атаки срещу вашият браузър като изпраща сертификатите, които получавате към SSL Observatory.
+<!ENTITY ssl-observatory.popup.text "Encrypted Web може да засече атаки срещу вашият браузър като изпраща сертификатите, които получавате към SSL Observatory.
 Включване на тази опция?">
 
 <!--<!ENTITY ssl-observatory.popup.text 
@@ -12,7 +12,7 @@ and auditing the certificates being presented to your browser. Would you like
 to turn it on?">-->
 
 <!ENTITY ssl-observatory.popup.title 
-"Да използва ли HTTPS Everywhere SSL Observatory?">
+"Да използва ли Encrypted Web SSL Observatory?">
 
 <!ENTITY ssl-observatory.popup.yes "Да">
 
@@ -51,7 +51,7 @@ to turn it on?">-->
 <!ENTITY ssl-observatory.prefs.done "Готово">
 
 <!ENTITY ssl-observatory.prefs.explanation 
-"HTTPS Everywhere може да използва SSL Observatory на EFF. Това означава две неща: (1) Изпращане на копия от HTTPS сертификати към SSL Observatory, за да ни помогнат да определим &quot;man in the middle&quot; атаки и да подобрим уеб сигурността; (2) Позволява ни да Ви предупредим за несигурни връзки или атаки над Вашия браузър.">
+"Encrypted Web може да използва SSL Observatory на EFF. Това означава две неща: (1) Изпращане на копия от HTTPS сертификати към SSL Observatory, за да ни помогнат да определим &quot;man in the middle&quot; атаки и да подобрим уеб сигурността; (2) Позволява ни да Ви предупредим за несигурни връзки или атаки над Вашия браузър.">
 
 <!--<!ENTITY ssl-observatory.prefs.explanation2
 "When you visit https://www.example.com, the Observatory will learn that
@@ -87,7 +87,7 @@ Mouseover the options for further details:">-->
 <!ENTITY ssl-observatory.warning.showcert "Показване веригата на сертификата">
 <!ENTITY ssl-observatory.warning.okay "Разбирам">
 <!ENTITY ssl-observatory.warning.text "SSL Observatory е издала предупреждение за HTTPS сертификат(и) за този сайт:">
-<!ENTITY ssl-observatory.warning.defense "Ако сте се вписали в този сайт е прерпоръчително да смените паролата си щом установите сигурна връзка. (Тези предупреждения могат да бъдат изключени в табът &quot;SSL Обсерватория&quot; в настройките на HTTPS Everywhere.)">
+<!ENTITY ssl-observatory.warning.defense "Ако сте се вписали в този сайт е прерпоръчително да смените паролата си щом установите сигурна връзка. (Тези предупреждения могат да бъдат изключени в табът &quot;SSL Обсерватория&quot; в настройките на Encrypted Web.)">
 
 <!ENTITY ssl-observatory.prefs.self_signed
 "Приемане и проверка на самоподписани сертификати">

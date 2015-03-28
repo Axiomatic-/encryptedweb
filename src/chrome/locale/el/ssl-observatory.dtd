@@ -3,7 +3,7 @@
 <!ENTITY ssl-observatory.popup.later "Θέλω να Ενημερωθώ Αργότερα">
 <!ENTITY ssl-observatory.popup.no "Όχι">
 
-<!ENTITY ssl-observatory.popup.text "Το HTTPS Everywhere μπορεί να εντοπίσει επιθέσεις
+<!ENTITY ssl-observatory.popup.text "Το Encrypted Web μπορεί να εντοπίσει επιθέσεις
 εναντίον του φυλλομετρητή σου στέλνοντας τα πιστοποιητικά που λαμβάνεις 
 στο Παρατηρητήριο. Επιθυμείς ενεργοποίηση;">
 
@@ -13,7 +13,7 @@ and auditing the certificates being presented to your browser. Would you like
 to turn it on?">-->
 
 <!ENTITY ssl-observatory.popup.title 
-"Επιθυμείς το HTTPS Everywhere να χρησιμοποιεί το Παρατηρητήριο SSL;">
+"Επιθυμείς το Encrypted Web να χρησιμοποιεί το Παρατηρητήριο SSL;">
 
 <!ENTITY ssl-observatory.popup.yes "Ναι">
 
@@ -53,7 +53,7 @@ to turn it on?">-->
 <!ENTITY ssl-observatory.prefs.done "Έγινε">
 
 <!ENTITY ssl-observatory.prefs.explanation 
-"Το HTTPS Everywhere μπορεί να χρησιμοποιήσει το Παρατηρητήριο SSL του EFF, το οποίο πραγματοποιεί τα εξής: (1)
+"Το Encrypted Web μπορεί να χρησιμοποιήσει το Παρατηρητήριο SSL του EFF, το οποίο πραγματοποιεί τα εξής: (1)
 στέλνει αντίγραφα των πιστοποιητικών HTTPS στο Παρατηρητήριο, για να μας βοηθήσει να ανιχνεύσουμε επιθέσεις 'ενδιάμεσου παρατηρητή' και να βελτιώσει την ασφάλεια του Παγκόσμιου Ιστού (2)
 μας επιτρέπει να σε προειδοποιούμε σχετικά με μη-ασφαλείς συνδέσεις ή επιθέσεις στο φυλλομετρητή σου.">
 
@@ -92,7 +92,7 @@ Mouseover the options for further details:">-->
 <!ENTITY ssl-observatory.warning.showcert "Προβολή της αλυσίδας πιστοποιητικών">
 <!ENTITY ssl-observatory.warning.okay "Καταλαβαίνω">
 <!ENTITY ssl-observatory.warning.text "Το Παρατηρητήριο SSL του EFF έχει εκδώσει μια προειδοποίηση σχετικά με το πιστοποιητικό HTTPS του συγκεκριμένου ιστότοπου:">
-<!ENTITY ssl-observatory.warning.defense "Εαν έχετε συνδεθεί σε αυτή την σελίδα, προτείνεται να αλλάξετε τον κωδικό σας μόλις αποκτήσετε ασφαλή σύνδεση. (Αυτές οι προειδοποιήσεις μπορούν να απενεργοποιηθούν στην καρτέλα &quot;Παρατηρητήριο SSL&quot; στον διάλογο ρυθμίσεων του HTTPS Everywhere.)">
+<!ENTITY ssl-observatory.warning.defense "Εαν έχετε συνδεθεί σε αυτή την σελίδα, προτείνεται να αλλάξετε τον κωδικό σας μόλις αποκτήσετε ασφαλή σύνδεση. (Αυτές οι προειδοποιήσεις μπορούν να απενεργοποιηθούν στην καρτέλα &quot;Παρατηρητήριο SSL&quot; στον διάλογο ρυθμίσεων του Encrypted Web.)">
 
 <!ENTITY ssl-observatory.prefs.self_signed
 "Υποβολή και αυτο-υπογεγραμμένα πιστοποιητικά">

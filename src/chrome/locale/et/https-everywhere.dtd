@@ -1,24 +1,24 @@
-<!ENTITY https-everywhere.about.title "HTTPS Everywhere-ist">
-<!ENTITY https-everywhere.about.ext_name "HTTPS Everywhere">
+<!ENTITY https-everywhere.about.title "Encrypted Web-ist">
+<!ENTITY https-everywhere.about.ext_name "Encrypted Web">
 <!ENTITY https-everywhere.about.ext_description "Krüpteeri Web! Kasuta HTTPS turvalaiendust automaatselt paljudel lehtedel.">
 <!ENTITY https-everywhere.about.version "Versioon">
 <!ENTITY https-everywhere.about.created_by "Loodud">
 <!ENTITY https-everywhere.about.librarians "Reeglistiku haldajad">
 <!ENTITY https-everywhere.about.thanks "Tänud">
-<!ENTITY https-everywhere.about.contribute  "Kui sulle meeldib HTTPS Everywhere, võiksid kaaluda">
+<!ENTITY https-everywhere.about.contribute  "Kui sulle meeldib Encrypted Web, võiksid kaaluda">
 <!ENTITY https-everywhere.about.donate_tor "Annetust Tor-ile">
 <!ENTITY https-everywhere.about.tor_lang_code "et">
 <!ENTITY https-everywhere.about.or "or">
 <!ENTITY https-everywhere.about.donate_eff "Annetust EFF-ile">
 
-<!ENTITY https-everywhere.menu.about "HTTPS Everywhere-ist">
+<!ENTITY https-everywhere.menu.about "Encrypted Web-ist">
 <!ENTITY https-everywhere.menu.observatory "SSL Jälgija Eelistused">
-<!ENTITY https-everywhere.menu.globalEnable "Luba HTTPS Everywhere">
-<!ENTITY https-everywhere.menu.globalDisable "Keela HTTPS Everywhere">
+<!ENTITY https-everywhere.menu.globalEnable "Luba Encrypted Web">
+<!ENTITY https-everywhere.menu.globalDisable "Keela Encrypted Web">
 <!ENTITY https-everywhere.menu.blockHttpRequests "Block all HTTP requests">
 <!ENTITY https-everywhere.menu.showCounter "Näita loendurit">
 
-<!ENTITY https-everywhere.prefs.title "HTTPS Everywhere Eelistused">
+<!ENTITY https-everywhere.prefs.title "Encrypted Web Eelistused">
 <!ENTITY https-everywhere.prefs.enable_all "Luba kõik">
 <!ENTITY https-everywhere.prefs.disable_all "Keela kõik">
 <!ENTITY https-everywhere.prefs.reset_defaults "Taasta algseaded">
@@ -40,10 +40,10 @@
 <!ENTITY https-everywhere.popup.title "HTTPS Everywhree 4.0arendus.11 notifikatsioon">
 <!ENTITY https-everywhere.popup.paragraph1 "Oih. Sa kasutasid HTTPS Everwhere stabiilset versiooni aga oleme ekslikult uuendanud sind arendus versioonile.">
 <!ENTITY https-everywhere.popup.paragraph2 "Kas sa soovid minna tagasi stabiilsele versioonile?">
-<!ENTITY https-everywhere.popup.paragraph3 "Meile meeldiks kui sa jätkaksid arendus verisooni kasutamist ja aitaks meil HTTPS Everywherei parendada. Sa võid leida mõne väikse vea siin või seal, sellisel juhul palun raporteeri need https-everywhere@eff.org. Vabandame ebamugavuste pärast ja täname et kasutate HTTPS Everywhere-i.">
+<!ENTITY https-everywhere.popup.paragraph3 "Meile meeldiks kui sa jätkaksid arendus verisooni kasutamist ja aitaks meil Encrypted Webi parendada. Sa võid leida mõne väikse vea siin või seal, sellisel juhul palun raporteeri need https-everywhere@eff.org. Vabandame ebamugavuste pärast ja täname et kasutate Encrypted Web-i.">
 <!ENTITY https-everywhere.popup.keep "Hoia mind arendus verisoonil">
 <!ENTITY https-everywhere.popup.revert "Lae alla viimane stabiilne versioon">
 
-<!ENTITY https-everywhere.ruleset-tests.status_title "HTTPS Everywhere reeglistikku test">
+<!ENTITY https-everywhere.ruleset-tests.status_title "Encrypted Web reeglistikku test">
 <!ENTITY https-everywhere.ruleset-tests.status_cancel_button "Katkesta">
 <!ENTITY https-everywhere.ruleset-tests.status_start_button "Käivita">

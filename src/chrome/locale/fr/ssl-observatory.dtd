@@ -3,7 +3,7 @@
 <!ENTITY ssl-observatory.popup.later "Plus tard">
 <!ENTITY ssl-observatory.popup.no "Non">
 
-<!ENTITY ssl-observatory.popup.text " HTTPS Everywhere peut détecter les attaques
+<!ENTITY ssl-observatory.popup.text " Encrypted Web peut détecter les attaques
 contre votre navigateur en envoyant les certificats reçus
 à l'Observatoire. Souhaitez-vous activer cette fonctionnalité ?">
 
@@ -13,7 +13,7 @@ and auditing the certificates being presented to your browser. Would you like
 to turn it on?">-->
 
 <!ENTITY ssl-observatory.popup.title 
-"Activer l'usage de l'Observatoire SSL par HTTPS Everywhere ?">
+"Activer l'usage de l'Observatoire SSL par Encrypted Web ?">
 
 <!ENTITY ssl-observatory.popup.yes "Oui">
 
@@ -53,7 +53,7 @@ vous connectez via un réseau d'entreprise très intrusif:">
 <!ENTITY ssl-observatory.prefs.done "Terminé">
 
 <!ENTITY ssl-observatory.prefs.explanation 
-"HTTPS Everywhere peut également faire appel à l'Observatoire SSL de l'EFF.  Cela permet deux choses: (1)
+"Encrypted Web peut également faire appel à l'Observatoire SSL de l'EFF.  Cela permet deux choses: (1)
 l'envoi de copies des certificats HTTPS à l'Observatoire, ce qui nous permet
 de détecter les attaques de type 'homme du milieu' et d'améliorer la sécurité globale de l'Internet ; et (2)
 cela nous permet de mieux vous informer quant aux connexions non sécurisées et aux attaques contre votre navigateur.">
@@ -93,7 +93,7 @@ a été consultée. Passez votre souris sur les options pour plus d'informations
 <!ENTITY ssl-observatory.warning.showcert "Montrer l'empreinte du certificat">
 <!ENTITY ssl-observatory.warning.okay "Je comprends">
 <!ENTITY ssl-observatory.warning.text "L'Observatoire SSL de l'EFF a publié un avertissement sur les certificats SSL émis par ce site:">
-<!ENTITY ssl-observatory.warning.defense "Si vous êtes authentifié sur ce site, il peut être préférable de changer votre mot de passe une fois que vous aurez une connexion sûre. (Ces alertes peuvent être désactivées dans l'onglet &quot;Observatoire SSL&quot; de la fenêtre des préférences de HTTPS Everywhere).">
+<!ENTITY ssl-observatory.warning.defense "Si vous êtes authentifié sur ce site, il peut être préférable de changer votre mot de passe une fois que vous aurez une connexion sûre. (Ces alertes peuvent être désactivées dans l'onglet &quot;Observatoire SSL&quot; de la fenêtre des préférences de Encrypted Web).">
 
 <!ENTITY ssl-observatory.prefs.self_signed
 "Envoyer et vérifier les certificats auto-signés">

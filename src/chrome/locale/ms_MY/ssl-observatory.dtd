@@ -3,7 +3,7 @@
 <!ENTITY ssl-observatory.popup.later "Tanya Saya Kemudian">
 <!ENTITY ssl-observatory.popup.no "Tidak">
 
-<!ENTITY ssl-observatory.popup.text "HTTPS Everywhere boleh mengesan serangan 
+<!ENTITY ssl-observatory.popup.text "Encrypted Web boleh mengesan serangan 
 terhadap pelayar web anda dengan menghantar sijil SSL yang anda terima ke 
 Pemantau SSL.  Aktifkan fungsi ini?">
 
@@ -13,7 +13,7 @@ and auditing the certificates being presented to your browser. Would you like
 to turn it on?">-->
 
 <!ENTITY ssl-observatory.popup.title 
-"Perlukah HTTPS Everywhere mengunakan Pemantau SSL?">
+"Perlukah Encrypted Web mengunakan Pemantau SSL?">
 
 <!ENTITY ssl-observatory.popup.yes "Ya">
 
@@ -55,7 +55,7 @@ root CA yang tidak standard">
 <!ENTITY ssl-observatory.prefs.done "Selesai">
 
 <!ENTITY ssl-observatory.prefs.explanation 
-"HTTPS Everywhere boleh menggunakan Pemantau SSL EFF. Terdapat dua 
+"Encrypted Web boleh menggunakan Pemantau SSL EFF. Terdapat dua 
 perkara yang dilakukan iaitu: (1) menghantar salinan sijil SSL kepada 
 Pemantau bagi tujuan mengesan serangan &quot;man in the middle&quot; serta 
 menambah baik keselamatan web; dan (2) memberi amaran kepada anda tentang 
@@ -97,7 +97,7 @@ untuk butiran lanjut:">
 <!ENTITY ssl-observatory.warning.showcert "Paparkan rantaian sijil SSL">
 <!ENTITY ssl-observatory.warning.okay "Saya faham">
 <!ENTITY ssl-observatory.warning.text "Amaran tentang sijil SSL untuk laman ini telah diberikan oleh Pemantau SSL EFF:">
-<!ENTITY ssl-observatory.warning.defense "If you are logged in to this site, it may be advisable to change your password once you have a safe connection. (These warnings can be disabled in the &quot;SSL Observatory&quot; tab of the HTTPS Everywhere preferences dialog.)">
+<!ENTITY ssl-observatory.warning.defense "If you are logged in to this site, it may be advisable to change your password once you have a safe connection. (These warnings can be disabled in the &quot;SSL Observatory&quot; tab of the Encrypted Web preferences dialog.)">
 
 <!ENTITY ssl-observatory.prefs.self_signed
 "Hantar dan periksa sijil sendiri-bertanda">

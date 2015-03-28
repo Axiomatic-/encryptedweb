@@ -3,7 +3,7 @@
 <!ENTITY ssl-observatory.popup.later "Opýtajte sa ma neskôr">
 <!ENTITY ssl-observatory.popup.no "Nie">
 
-<!ENTITY ssl-observatory.popup.text "HTTPS Everywhere dokáže detekovať útoky
+<!ENTITY ssl-observatory.popup.text "Encrypted Web dokáže detekovať útoky
 na Váš prehliadač tak, že pošle certifikát, ktorý ste dostali do
 Observatory.  Zapnúť túto funkciu?">
 
@@ -13,7 +13,7 @@ and auditing the certificates being presented to your browser. Would you like
 to turn it on?">-->
 
 <!ENTITY ssl-observatory.popup.title 
-"Má HTTPS Everywhere použiť SSL Observatory?">
+"Má Encrypted Web použiť SSL Observatory?">
 
 <!ENTITY ssl-observatory.popup.yes "Áno">
 
@@ -53,7 +53,7 @@ firemnú sieť:">
 <!ENTITY ssl-observatory.prefs.done "Hotovo">
 
 <!ENTITY ssl-observatory.prefs.explanation 
-"HTTPS Everywhere môže používať SSL Observatory od EFF.  Toto spraví dve veci: (1)
+"Encrypted Web môže používať SSL Observatory od EFF.  Toto spraví dve veci: (1)
 pošle kópie HTTPS certifikátov do Observatory, aby nám pomohli detekovať
 'man in the middle' útoky a zdokonaľovať bezpečnosť na Webe; a (2)
 umožní nám varovať Vás o nebezpečných pripojeniach alebo útokoch na Váš prehliadač.">
@@ -93,7 +93,7 @@ pre ďalšie podrobnosti.">
 <!ENTITY ssl-observatory.warning.showcert "Zobraziť reťaz certifikátov">
 <!ENTITY ssl-observatory.warning.okay "Porozumel som">
 <!ENTITY ssl-observatory.warning.text "EFF's SSL Observatory vydalo varovanie o HTTPS certifikáte(certifikátoch) pre túto stránku:">
-<!ENTITY ssl-observatory.warning.defense "Ak ste prihlásený na tejto stránke, môže byť rozumné zmeniť si heslo keď raz budete mať bezpečné pripojenie. (Tieto varovania sa dajú vypnúť v &quot;SSL Observatory&quot; záložke dialógu HTTPS Everywhere predvoľby.)">
+<!ENTITY ssl-observatory.warning.defense "Ak ste prihlásený na tejto stránke, môže byť rozumné zmeniť si heslo keď raz budete mať bezpečné pripojenie. (Tieto varovania sa dajú vypnúť v &quot;SSL Observatory&quot; záložke dialógu Encrypted Web predvoľby.)">
 
 <!ENTITY ssl-observatory.prefs.self_signed
 "Posielať a preverovať certifikáty podpísané samé sebou">

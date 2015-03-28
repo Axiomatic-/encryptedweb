@@ -3,7 +3,7 @@
 <!ENTITY ssl-observatory.popup.later "Kysy myöhemmin">
 <!ENTITY ssl-observatory.popup.no "Ei">
 
-<!ENTITY ssl-observatory.popup.text "HTTPS Everywhere voi tunnistaa selaimeen kohdistuvat hyökkäykset lähettämällä varmenteet Observatoryyn. Otetaanko toiminto käyttöön?">
+<!ENTITY ssl-observatory.popup.text "Encrypted Web voi tunnistaa selaimeen kohdistuvat hyökkäykset lähettämällä varmenteet Observatoryyn. Otetaanko toiminto käyttöön?">
 
 <!--<!ENTITY ssl-observatory.popup.text 
 "EFF's SSL Observatory can detect attacks against HTTPS websites by collecting
@@ -11,7 +11,7 @@ and auditing the certificates being presented to your browser. Would you like
 to turn it on?">-->
 
 <!ENTITY ssl-observatory.popup.title 
-"Tulisiko HTTPS Everywheren käyttää SSL Observatorya?">
+"Tulisiko Encrypted Webn käyttää SSL Observatorya?">
 
 <!ENTITY ssl-observatory.popup.yes "Kyllä">
 
@@ -50,7 +50,7 @@ to turn it on?">-->
 <!ENTITY ssl-observatory.prefs.done "Valmis">
 
 <!ENTITY ssl-observatory.prefs.explanation 
-"HTTPS Everywhere voi hyödyntää EFFin SSL Observatorya. Sillä on kaksi tehtävää: (1) Se lähettää HTTPS-varmenteiden kopiot Observatoryyn, jotta pystyisimme tunnistamaan epärehellisen välittäjän (MitM) hyökkäykset ja edistämään WWW:n turvallisuutta. (2) Sen avulla voimme varoittaa sinua turvattomista yhteyksistä ja selaimeen kohdistuvista hyökkäyksistä.">
+"Encrypted Web voi hyödyntää EFFin SSL Observatorya. Sillä on kaksi tehtävää: (1) Se lähettää HTTPS-varmenteiden kopiot Observatoryyn, jotta pystyisimme tunnistamaan epärehellisen välittäjän (MitM) hyökkäykset ja edistämään WWW:n turvallisuutta. (2) Sen avulla voimme varoittaa sinua turvattomista yhteyksistä ja selaimeen kohdistuvista hyökkäyksistä.">
 
 <!--<!ENTITY ssl-observatory.prefs.explanation2
 "When you visit https://www.example.com, the Observatory will learn that
@@ -84,7 +84,7 @@ Mouseover the options for further details:">-->
 <!ENTITY ssl-observatory.warning.showcert "Näytä palvelimen varmenneketju">
 <!ENTITY ssl-observatory.warning.okay "Ymmärrän">
 <!ENTITY ssl-observatory.warning.text "EFFin SSL Observatory on varoittanut tämän sivuston yhdestä tai useammasta HTTPS-varmenteesta:">
-<!ENTITY ssl-observatory.warning.defense "Jos olet kirjautunut tälle sivustolle, voi olla suositeltavaa vaihtaa salasana, kun sinulla on käytössä turvallinen yhteys. (Nämä varoitukset voidaan laittaa pois päältä ''SSL Observatoryssä'' napsauttamalla HTTPS Everywhere-asetusvalintaikkunaa.)">
+<!ENTITY ssl-observatory.warning.defense "Jos olet kirjautunut tälle sivustolle, voi olla suositeltavaa vaihtaa salasana, kun sinulla on käytössä turvallinen yhteys. (Nämä varoitukset voidaan laittaa pois päältä ''SSL Observatoryssä'' napsauttamalla Encrypted Web-asetusvalintaikkunaa.)">
 
 <!ENTITY ssl-observatory.prefs.self_signed
 "Lähetä ja tarkista sivuston itsensä allekirjoittama varmenne">

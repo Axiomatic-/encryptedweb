@@ -53,7 +53,7 @@ xarxa corporativa molt intrusiva.">
 <!ENTITY ssl-observatory.prefs.done "Fet">
 
 <!ENTITY ssl-observatory.prefs.explanation 
-"HTTPS Everywhere pot usar l'EFF's SSL Observatory. Això fa dues coses: (1)
+"Encrypted Web pot usar l'EFF's SSL Observatory. Això fa dues coses: (1)
 envia còpies de certificats HTTPS a l'observatori, per a ajudar-nos
 a detectar atacs amb intermediari i millorar la seguretat de la Web; i (2)
 ens permet avisar-vos de connexions insegures o atacs al vostre navegador.">
@@ -93,7 +93,7 @@ ha vist. Passeu amb el cursor per sobre les opcions per a més informació. ">
 <!ENTITY ssl-observatory.warning.showcert "Mostra la cadena de certificats">
 <!ENTITY ssl-observatory.warning.okay "Ho entenc">
 <!ENTITY ssl-observatory.warning.text "EFF's SSL Observatory ha emès una advertència sobre cerficats(s) HTTPS per a aquest lloc: ">
-<!ENTITY ssl-observatory.warning.defense "Si heu iniciat sessió a aquest lloc, pot ser recomanable canviar la vostra contrassenya un cop tingueu una connexió segura. (Aquestes advertències poden ser deshabilitades a la pestanya &quot;SSL Observatory&quot; del quadre de preferències d'HTTPS Everywhere.)  ">
+<!ENTITY ssl-observatory.warning.defense "Si heu iniciat sessió a aquest lloc, pot ser recomanable canviar la vostra contrassenya un cop tingueu una connexió segura. (Aquestes advertències poden ser deshabilitades a la pestanya &quot;SSL Observatory&quot; del quadre de preferències d'Encrypted Web.)  ">
 
 <!ENTITY ssl-observatory.prefs.self_signed
 "Enviar i comprovar els certificats amb signatura">

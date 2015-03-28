@@ -3,7 +3,7 @@
 <!ENTITY ssl-observatory.popup.later "稍後詢問我">
 <!ENTITY ssl-observatory.popup.no "否">
 
-<!ENTITY ssl-observatory.popup.text "HTTPS Everywhere 將您收到的憑證發送到觀測站，以偵測出對您瀏覽器的攻擊。要開啟此功能嗎?">
+<!ENTITY ssl-observatory.popup.text "Encrypted Web 將您收到的憑證發送到觀測站，以偵測出對您瀏覽器的攻擊。要開啟此功能嗎?">
 
 <!--<!ENTITY ssl-observatory.popup.text 
 "EFF's SSL Observatory can detect attacks against HTTPS websites by collecting
@@ -11,7 +11,7 @@ and auditing the certificates being presented to your browser. Would you like
 to turn it on?">-->
 
 <!ENTITY ssl-observatory.popup.title 
-"要讓 HTTPS Everywhere 使用 SSL 觀測站嗎?">
+"要讓 Encrypted Web 使用 SSL 觀測站嗎?">
 
 <!ENTITY ssl-observatory.popup.yes "是">
 
@@ -50,7 +50,7 @@ to turn it on?">-->
 <!ENTITY ssl-observatory.prefs.done "完成">
 
 <!ENTITY ssl-observatory.prefs.explanation 
-"HTTPS Everywhere 可以使用 EFF 的 SSL 觀測站。這麼做有兩個效果：(1) 將 HTTPS 憑證的副本傳送到觀測站，協助我們偵測「中間人」攻擊並改進網路安全性；(2) 當您遇到不安全的連線或瀏覽器遭到攻擊時，我們能夠對您提出警告。">
+"Encrypted Web 可以使用 EFF 的 SSL 觀測站。這麼做有兩個效果：(1) 將 HTTPS 憑證的副本傳送到觀測站，協助我們偵測「中間人」攻擊並改進網路安全性；(2) 當您遇到不安全的連線或瀏覽器遭到攻擊時，我們能夠對您提出警告。">
 
 <!--<!ENTITY ssl-observatory.prefs.explanation2
 "When you visit https://www.example.com, the Observatory will learn that
@@ -84,7 +84,7 @@ Mouseover the options for further details:">-->
 <!ENTITY ssl-observatory.warning.showcert "顯示憑證鏈結（certificate chain）">
 <!ENTITY ssl-observatory.warning.okay "我了解">
 <!ENTITY ssl-observatory.warning.text "EFF 的 SSL 觀測站對此網站的 HTTPS 憑證提出警告:">
-<!ENTITY ssl-observatory.warning.defense "如果您登入此網站，一旦您有安全網路連線時可能會建議變更您的密碼。(這個警告可以在 HTTPS Everywhere 偏好設定對話方塊的「SSL 觀測站」分頁中被停用)">
+<!ENTITY ssl-observatory.warning.defense "如果您登入此網站，一旦您有安全網路連線時可能會建議變更您的密碼。(這個警告可以在 Encrypted Web 偏好設定對話方塊的「SSL 觀測站」分頁中被停用)">
 
 <!ENTITY ssl-observatory.prefs.self_signed
 "提交並檢查自我簽署的憑證">

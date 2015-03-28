@@ -3,7 +3,7 @@
 <!ENTITY ssl-observatory.popup.later "Chiedi più tardi">
 <!ENTITY ssl-observatory.popup.no "No">
 
-<!ENTITY ssl-observatory.popup.text "HTTPS Everywhere può rilevare attacchi
+<!ENTITY ssl-observatory.popup.text "Encrypted Web può rilevare attacchi
 contro il browser inviando all'Osservatorio i certificati che ricevuti dall'utente. Abilitare questa funzione?">
 
 <!--<!ENTITY ssl-observatory.popup.text 
@@ -12,7 +12,7 @@ and auditing the certificates being presented to your browser. Would you like
 to turn it on?">-->
 
 <!ENTITY ssl-observatory.popup.title 
-"Si desidera che HTTPS Everywhere usi l'Osservatorio SSL?">
+"Si desidera che Encrypted Web usi l'Osservatorio SSL?">
 
 <!ENTITY ssl-observatory.popup.yes "Sì">
 
@@ -51,7 +51,7 @@ to turn it on?">-->
 <!ENTITY ssl-observatory.prefs.done "Fatto">
 
 <!ENTITY ssl-observatory.prefs.explanation 
-"HTTPS Everywhere può usare l'Osservatorio SSL di EFF. Questo fa due cose: (1) invia copie dei certificati HTTPS all'Osservatorio per meglio individuare attacchi &quot;man in the middle&quot; e migliorare la sicurezza del Web; e (2) consente di avvisare l'utente di connessioni non sicure o attacchi al browser.">
+"Encrypted Web può usare l'Osservatorio SSL di EFF. Questo fa due cose: (1) invia copie dei certificati HTTPS all'Osservatorio per meglio individuare attacchi &quot;man in the middle&quot; e migliorare la sicurezza del Web; e (2) consente di avvisare l'utente di connessioni non sicure o attacchi al browser.">
 
 <!--<!ENTITY ssl-observatory.prefs.explanation2
 "When you visit https://www.example.com, the Observatory will learn that
@@ -88,7 +88,7 @@ www.qualcosa.com, ma non chi ha visitato il sito, o quale particolare pagina
 <!ENTITY ssl-observatory.warning.showcert "Mostrare la catena di certificati">
 <!ENTITY ssl-observatory.warning.okay "Capisco">
 <!ENTITY ssl-observatory.warning.text "L'Osservatorio SSL di EFF ha emesso un avviso sui certificati HTTPS di questo sito:">
-<!ENTITY ssl-observatory.warning.defense "Nel caso si sia effettuato l'accesso a questo sito, è consigliabile cambiare la password non appena si dispone di una connessione sicura. (Questi avvisi possono essere disabilitati nella scheda &quot;Osservatorio SSL&quot; delle preferenze di HTTPS Everywhere.)">
+<!ENTITY ssl-observatory.warning.defense "Nel caso si sia effettuato l'accesso a questo sito, è consigliabile cambiare la password non appena si dispone di una connessione sicura. (Questi avvisi possono essere disabilitati nella scheda &quot;Osservatorio SSL&quot; delle preferenze di Encrypted Web.)">
 
 <!ENTITY ssl-observatory.prefs.self_signed
 "Inviare e controllare certificati autofirmati">

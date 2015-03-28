@@ -3,7 +3,7 @@
 <!ENTITY ssl-observatory.popup.later "Preguntarme luego">
 <!ENTITY ssl-observatory.popup.no "No">
 
-<!ENTITY ssl-observatory.popup.text "HTTPS Everywhere puede detectar ataques 
+<!ENTITY ssl-observatory.popup.text "Encrypted Web puede detectar ataques 
 contra su navegador enviando los certificados que reciba 
 al Observatorio. ¿Desea activarlo?">
 
@@ -13,7 +13,7 @@ and auditing the certificates being presented to your browser. Would you like
 to turn it on?">-->
 
 <!ENTITY ssl-observatory.popup.title 
-"¿Debe HTTPS Everywhere utilizar el Observatorio SSL?">
+"¿Debe Encrypted Web utilizar el Observatorio SSL?">
 
 <!ENTITY ssl-observatory.popup.yes "Sí">
 
@@ -53,7 +53,7 @@ una red corporativa muy intrusiva:">
 <!ENTITY ssl-observatory.prefs.done "Listo">
 
 <!ENTITY ssl-observatory.prefs.explanation 
-"HTTPS Everywhere puede utilizar el Observatorio SSL de EFF. Esto hace dos cosas: 
+"Encrypted Web puede utilizar el Observatorio SSL de EFF. Esto hace dos cosas: 
 (1) envía copias de los certificados HTTPS al Observatorio, para ayudarnos 
 a detectar ataques de 'hombre en el medio' (MitM) y mejorar la seguridad de la Web; y 
 (2) nos permite advertirle de conexiones inseguras o ataques sobre su navegador.">
@@ -93,7 +93,7 @@ miró. Pase el ratón sobre las opciones para mayores detalles:">
 <!ENTITY ssl-observatory.warning.showcert "Mostrar la cadena del certificado">
 <!ENTITY ssl-observatory.warning.okay "Entiendo">
 <!ENTITY ssl-observatory.warning.text "El Observatorio SSL de la EFF ha emitido una advertencia sobre el(los) certificado(s) para este sitio:">
-<!ENTITY ssl-observatory.warning.defense "Si ha iniciado sesión en este sitio, puede ser aconsejable que cambie su contraseña una vez tenga una conexión segura. (Estas advertencias pueden deshabilitarse en la pestaña &quot;Observatorio SSL&quot; del cuadro de preferencias de HTTPS Everywhere).">
+<!ENTITY ssl-observatory.warning.defense "Si ha iniciado sesión en este sitio, puede ser aconsejable que cambie su contraseña una vez tenga una conexión segura. (Estas advertencias pueden deshabilitarse en la pestaña &quot;Observatorio SSL&quot; del cuadro de preferencias de Encrypted Web).">
 
 <!ENTITY ssl-observatory.prefs.self_signed
 "Enviar y verificar certificados auto-firmados">

@@ -3,7 +3,7 @@
 <!ENTITY ssl-observatory.popup.later "Küsi minult hiljem">
 <!ENTITY ssl-observatory.popup.no "Ei">
 
-<!ENTITY ssl-observatory.popup.text "HTTPS Everywhere suudab tuvastada brauseri vastu
+<!ENTITY ssl-observatory.popup.text "Encrypted Web suudab tuvastada brauseri vastu
 suunatud ründeid saates sertifikaadid, mida saadetakse
 SSL Observatory serverisse.  Kas lülitada see sisse?">
 
@@ -13,7 +13,7 @@ and auditing the certificates being presented to your browser. Would you like
 to turn it on?">-->
 
 <!ENTITY ssl-observatory.popup.title 
-"Kas HTTPS Everywhere peaks kasutama SSL Observatory teenust?">
+"Kas Encrypted Web peaks kasutama SSL Observatory teenust?">
 
 <!ENTITY ssl-observatory.popup.yes "Jah">
 
@@ -53,7 +53,7 @@ intrusive corporate network:">
 <!ENTITY ssl-observatory.prefs.done "Valmis">
 
 <!ENTITY ssl-observatory.prefs.explanation 
-"HTTPS Everywhere can use EFF's SSL Observatory.  This does two things: (1)
+"Encrypted Web can use EFF's SSL Observatory.  This does two things: (1)
 sends copies of HTTPS certificates to the Observatory, to help us
 detect 'man in the middle' attacks and improve the Web's security; and (2)
 lets us warn you about insecure connections or attacks on your browser.">
@@ -93,7 +93,7 @@ looked at.  Mouseover the options for further details:">
 <!ENTITY ssl-observatory.warning.showcert "Show the certificate chain">
 <!ENTITY ssl-observatory.warning.okay "Sain aru">
 <!ENTITY ssl-observatory.warning.text "EFF's SSL Observatory has issued a warning about the HTTPS certificiate(s) for this site:">
-<!ENTITY ssl-observatory.warning.defense "If you are logged in to this site, it may be advisable to change your password once you have a safe connection. (These warnings can be disabled in the &quot;SSL Observatory&quot; tab of the HTTPS Everywhere preferences dialog.)">
+<!ENTITY ssl-observatory.warning.defense "If you are logged in to this site, it may be advisable to change your password once you have a safe connection. (These warnings can be disabled in the &quot;SSL Observatory&quot; tab of the Encrypted Web preferences dialog.)">
 
 <!ENTITY ssl-observatory.prefs.self_signed
 "Submit and check self-signed certificates">
