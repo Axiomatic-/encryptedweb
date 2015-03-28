@@ -1,6 +1,6 @@
-Encrypted Web
+# Encrypted Web
 
-Encrypted Web is a "fork" of [HTTPS-Everywhere](https://eff.org/https-everywhere) ([GitHub](https://github.com/EFForg/https-everywhere/) for the [Pale Moon] (http://www.palemoon.org/) browser.
+Encrypted Web is a "fork" of [HTTPS-Everywhere](https://eff.org/https-everywhere) ([GitHub](https://github.com/EFForg/https-everywhere/)) for the [Pale Moon] (http://www.palemoon.org/) browser.
 
 ================
 
