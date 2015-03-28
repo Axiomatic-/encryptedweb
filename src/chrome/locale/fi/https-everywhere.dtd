@@ -6,10 +6,10 @@
 <!ENTITY https-everywhere.about.librarians "Sääntöjen hallinnoijat">
 <!ENTITY https-everywhere.about.thanks "Kiitokset">
 <!ENTITY https-everywhere.about.contribute  "Jos pidät Encrypted Websta, voit harkita">
-<!ENTITY https-everywhere.about.donate_tor "Lahjoita Tor-sovellukselle.">
+
 <!ENTITY https-everywhere.about.tor_lang_code "en">
 <!ENTITY https-everywhere.about.or "tai">
-<!ENTITY https-everywhere.about.donate_eff "Lahjoita EFFille">
+
 
 <!ENTITY https-everywhere.menu.about "Tietoja Encrypted Websta">
 <!ENTITY https-everywhere.menu.observatory "SSL Observatoryn asetukset">

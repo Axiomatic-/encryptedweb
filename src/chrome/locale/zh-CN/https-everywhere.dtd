@@ -6,10 +6,10 @@
 <!ENTITY https-everywhere.about.librarians "规则管理员">
 <!ENTITY https-everywhere.about.thanks "致谢">
 <!ENTITY https-everywhere.about.contribute  "如果喜欢 Encrypted Web，您可以考虑">
-<!ENTITY https-everywhere.about.donate_tor "捐助 Tor">
+
 <!ENTITY https-everywhere.about.tor_lang_code "zh_CN">
 <!ENTITY https-everywhere.about.or "或">
-<!ENTITY https-everywhere.about.donate_eff "捐助电子前线基金会 (EFF)">
+
 
 <!ENTITY https-everywhere.menu.about "关于 Encrypted Web">
 <!ENTITY https-everywhere.menu.observatory "SSL Observatory 首选项">

@@ -6,10 +6,10 @@
 <!ENTITY https-everywhere.about.librarians "کتابداران قوانین">
 <!ENTITY https-everywhere.about.thanks "با تشکر از">
 <!ENTITY https-everywhere.about.contribute  "اگر شما از HTTPS همه‌جا راضی هستید، پیشنهاد می‌کنیم">
-<!ENTITY https-everywhere.about.donate_tor "به Tor کمک مالی کنید.">
+
 <!ENTITY https-everywhere.about.tor_lang_code "fa">
 <!ENTITY https-everywhere.about.or "یا">
-<!ENTITY https-everywhere.about.donate_eff "به EFF کمک مالی کنید.">
+
 
 <!ENTITY https-everywhere.menu.about "درباره‌ی HTTPS همه‌جا">
 <!ENTITY https-everywhere.menu.observatory "تنظیم‌های رصدخانه‌ی SSL">

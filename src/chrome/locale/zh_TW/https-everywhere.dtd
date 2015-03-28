@@ -6,9 +6,9 @@
 <!ENTITY https-everywhere.about.librarians "規則集管理員">
 <!ENTITY https-everywhere.about.thanks "致謝">
 <!ENTITY https-everywhere.about.contribute  "若您喜歡 Encrypted Web，您或許可以考慮">
-<!ENTITY https-everywhere.about.donate_tor "贊助 Tor">
+
 <!ENTITY https-everywhere.about.tor_lang_code "zh-TW">
-<!ENTITY https-everywhere.about.donate_eff "贊助 EFF">
+
 <!ENTITY https-everywhere.about.or "or">
 
 <!ENTITY https-everywhere.menu.about "關於 Encrypted Web">

@@ -6,10 +6,10 @@
 <!ENTITY https-everywhere.about.librarians "Regelsettbibliotekarer">
 <!ENTITY https-everywhere.about.thanks "Takk til">
 <!ENTITY https-everywhere.about.contribute  "Hvis du liker Encrypted Web, vurder å">
-<!ENTITY https-everywhere.about.donate_tor "Donére til Tor">
+
 <!ENTITY https-everywhere.about.tor_lang_code "en">
 <!ENTITY https-everywhere.about.or "eller">
-<!ENTITY https-everywhere.about.donate_eff "Donére til EFF">
+
 
 <!ENTITY https-everywhere.menu.about "Om Encrypted Web">
 <!ENTITY https-everywhere.menu.observatory "SSL Observatory Innstillinger">

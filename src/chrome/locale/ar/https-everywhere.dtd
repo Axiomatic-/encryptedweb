@@ -6,10 +6,10 @@
 <!ENTITY https-everywhere.about.librarians "جامعيْ القواعد">
 <!ENTITY https-everywhere.about.thanks "شكراً لكل من">
 <!ENTITY https-everywhere.about.contribute  "إن أعجبتك إضافة Encrypted Web، فكر بـ">
-<!ENTITY https-everywhere.about.donate_tor "التبرع لتور">
+
 <!ENTITY https-everywhere.about.tor_lang_code "en">
 <!ENTITY https-everywhere.about.or "أو">
-<!ENTITY https-everywhere.about.donate_eff "التبرع للـ EFF">
+
 
 <!ENTITY https-everywhere.menu.about "عن  Encrypted Web">
 <!ENTITY https-everywhere.menu.observatory "خيارات مرصد SSL">

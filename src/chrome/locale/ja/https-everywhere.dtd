@@ -6,10 +6,10 @@
 <!ENTITY https-everywhere.about.librarians "ルール設定ライブラリ">
 <!ENTITY https-everywhere.about.thanks "Thanks to">
 <!ENTITY https-everywhere.about.contribute  "Encrypted Webが好きなら、検討してください">
-<!ENTITY https-everywhere.about.donate_tor "Torに寄付する">
+
 <!ENTITY https-everywhere.about.tor_lang_code "英語">
 <!ENTITY https-everywhere.about.or "or">
-<!ENTITY https-everywhere.about.donate_eff "EFFに寄付する">
+
 
 <!ENTITY https-everywhere.menu.about "Encrypted Webについて">
 <!ENTITY https-everywhere.menu.observatory "ssl Observatoryの設定">

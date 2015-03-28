@@ -1,6 +1,6 @@
 #!/bin/sh
 set -o errexit
-APP_NAME=https-everywhere
+APP_NAME=encryptedweb
 
 # builds a .xpi from the git repository, placing the .xpi in the root
 # of the repository.

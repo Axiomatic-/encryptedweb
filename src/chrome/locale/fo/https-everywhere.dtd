@@ -6,10 +6,10 @@
 <!ENTITY https-everywhere.about.librarians "Ruleset Librarians">
 <!ENTITY https-everywhere.about.thanks "Tøkk til">
 <!ENTITY https-everywhere.about.contribute  "Dámar tær HTTPS Allastaðni, átti tú at">
-<!ENTITY https-everywhere.about.donate_tor "latið Tor eitt oyra">
+
 <!ENTITY https-everywhere.about.tor_lang_code "fo">
 <!ENTITY https-everywhere.about.or "or">
-<!ENTITY https-everywhere.about.donate_eff "Letur EFF eitt oyra">
+
 
 <!ENTITY https-everywhere.menu.about "Um HTTPS Allastaðni">
 <!ENTITY https-everywhere.menu.observatory "Stillingar fyri SSL Observatory">

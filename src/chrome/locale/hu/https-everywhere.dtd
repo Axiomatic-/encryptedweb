@@ -6,10 +6,10 @@
 <!ENTITY https-everywhere.about.librarians "Szabálykészlet könyvtárosok">
 <!ENTITY https-everywhere.about.thanks "Köszönet:">
 <!ENTITY https-everywhere.about.contribute  "Ha tetszik a Encrypted Web, talán megfontolja a következőket:">
-<!ENTITY https-everywhere.about.donate_tor "A Tor támogatása">
+
 <!ENTITY https-everywhere.about.tor_lang_code "en">
 <!ENTITY https-everywhere.about.or "vagy">
-<!ENTITY https-everywhere.about.donate_eff "Az EFF támogatása">
+
 
 <!ENTITY https-everywhere.menu.about "A Encrypted Web névjegye">
 <!ENTITY https-everywhere.menu.observatory "SSL Observatory Beállítások">

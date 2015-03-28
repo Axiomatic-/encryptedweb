@@ -6,10 +6,10 @@
 <!ENTITY https-everywhere.about.librarians "Izdelovalci pravil">
 <!ENTITY https-everywhere.about.thanks "Zahvala">
 <!ENTITY https-everywhere.about.contribute  "Če vam je Encrypted Web všeč, razmislite o">
-<!ENTITY https-everywhere.about.donate_tor "donaciji za Tor">
+
 <!ENTITY https-everywhere.about.tor_lang_code "en">
 <!ENTITY https-everywhere.about.or "or">
-<!ENTITY https-everywhere.about.donate_eff "donaciji za EFF">
+
 
 <!ENTITY https-everywhere.menu.about "O Encrypted Web">
 <!ENTITY https-everywhere.menu.observatory "Nastavitve SSL Observatorija">

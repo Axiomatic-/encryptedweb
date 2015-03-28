@@ -6,10 +6,10 @@
 <!ENTITY https-everywhere.about.librarians "Regelsatz-Bibliothekare">
 <!ENTITY https-everywhere.about.thanks "Dank an">
 <!ENTITY https-everywhere.about.contribute  "Wenn Sie HTTPS-Everywhere mögen, sollten Sie sich dieses ansehen">
-<!ENTITY https-everywhere.about.donate_tor "An Tor spenden">
+
 <!ENTITY https-everywhere.about.tor_lang_code "de">
 <!ENTITY https-everywhere.about.or "oder">
-<!ENTITY https-everywhere.about.donate_eff "An EFF spenden">
+
 
 <!ENTITY https-everywhere.menu.about "Über HTTPS-Everywhere">
 <!ENTITY https-everywhere.menu.observatory "SSL-Observatory-Einstellungen">

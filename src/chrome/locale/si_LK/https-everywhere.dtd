@@ -6,10 +6,10 @@
 <!ENTITY https-everywhere.about.librarians "Ruleset Librarians">
 <!ENTITY https-everywhere.about.thanks "ස්තුතිය">
 <!ENTITY https-everywhere.about.contribute  "Encrypted Web පිලිබඳව ඔබ කැමතිනම් මේවා සලකා බැලිය යුතුය">
-<!ENTITY https-everywhere.about.donate_tor "Tor වලට ආධාර කිරීම">
+
 <!ENTITY https-everywhere.about.tor_lang_code "ඉංග්‍රීසි">
 <!ENTITY https-everywhere.about.or "or">
-<!ENTITY https-everywhere.about.donate_eff " EFF වලට ආධාර කරන්න">
+
 
 <!ENTITY https-everywhere.menu.about "Encrypted Web පිලිබඳව">
 <!ENTITY https-everywhere.menu.observatory "SSL නිරික්ෂණාගාර මනාප ">
