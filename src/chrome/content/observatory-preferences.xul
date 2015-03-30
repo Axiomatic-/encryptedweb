@@ -16,12 +16,6 @@
   ondialogaccept="observatory_prefs_accept()">
   <script type="application/x-javascript" src="observatory-xul.js" />
   <vbox flex="1" style="overflow:auto">
-    <spacer flex="1" />
-    <hbox flex="1">
-      <spacer flex="1" />
-      <spacer flex="1" />
-    </hbox>
-    <spacer flex="2" />
     <label>&ssl-observatory.prefs.explanation;</label>
     <separator class="thin" />
     <label>&ssl-observatory.prefs.explanation2;</label>
