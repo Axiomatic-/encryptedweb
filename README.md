@@ -2,6 +2,15 @@
 
 Encrypted Web is a "fork" of [HTTPS-Everywhere](https://eff.org/https-everywhere) ([GitHub](https://github.com/EFForg/https-everywhere/)) for the [Pale Moon] (http://www.palemoon.org/) browser.
 
+Installing
+================
+
+The extension files are available on the [releases page](https://github.com/squarefractal/encryptedweb/releases). To install the extension:
+
+  * Download the encryptedweb-*.zip file from the releases page.
+  * Extract the ZIP file.
+  * Open the XPI file in Pale Moon (simple drag-and-drop works too).
+
 ================
 
 Getting Started
