@@ -1,5 +1,5 @@
 <!-- 
-  Redirect donmai.us to danbooru.donmai.us forTTPS coverage.
+  Redirect donmai.us to danbooru.donmai.us for HTTPS coverage.
   It's technically the same site, but https://donmai.us gives a bad cert domain error.
 -->
 
