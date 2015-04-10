@@ -1,20 +1,17 @@
 # Encrypted Web
+-------------------------------------------------------------------------------
 
 Encrypted Web is a "fork" of [HTTPS-Everywhere](https://eff.org/https-everywhere) ([GitHub](https://github.com/EFForg/https-everywhere/)) for the [Pale Moon] (http://www.palemoon.org/) browser.
 
-Installing
-================
+## Installing
+-------------------------------------------------------------------------------
 
-The extension files are available on the [releases page](https://github.com/squarefractal/encryptedweb/releases). To install the extension:
+The extension files are available on the [releases page](https://github.com/squarefractal/encryptedweb/releases). To install the extension, click on the encryptedweb-*.xpi link.
 
-  * Download the encryptedweb-*.zip file from the releases page.
-  * Extract the ZIP file.
-  * Open the XPI file in Pale Moon (simple drag-and-drop works too).
+Some older version releases have the XPI within a ZIP file.
 
-================
-
-Getting Started
----------------
+## Building it yourself
+-------------------------------------------------------------------------------
 
 Get the packages you need and install a git hook to run tests before push:
 
@@ -31,41 +28,42 @@ Build the Pale Moon extension as a .xpi package:
 
 Both of the build commands store their output under pkg/.
 
-Precommit Testing
------------------
+## Precommit Testing
+-------------------------------------------------------------------------------
 
 One can run the available test suites automatically by enabling the precommit
 hook provided with:
 
     ln -s ../../hooks/precommit .git/hooks/pre-commit
 
-Source Tree
------------
+## Source Tree
+-------------------------------------------------------------------------------
 
-This is the source tree for HTTPS Everywhere for Firefox and Chrome.
+This is the source tree for HTTPS Everywhere for Pale Moon.
 
 Important directories you might want to know about
 
     src/                      The Pale Moon source
 
     src/components            |
-    src/chrome/content        | Firefox JavaScript and XUL code
+    src/chrome/content        | Pale Moon JS+XUL
     src/chrome/content/code   |
 
     src/chrome/content/rules  The rulesets live here
 
-Hacking on the Source Code
---------------------------
+## Hacking on the Source Code
+-------------------------------------------------------------------------------
 
 Please submit changes by making a pull request to this repository. Issues may be reported via the bug tracker in this repository.
 
-### Writing rulesets
+## Writing rulesets
+-------------------------------------------------------------------------------
 
 Please submit your rulesets to the HTTPS Everywhere project. Rulesets will be pulled from upstream from time to time.
 
 
 Tests
--------------
+-------------------------------------------------------------------------------
 
 There are some very basic unittests under https-everywhere-tests/. These are run with
 
