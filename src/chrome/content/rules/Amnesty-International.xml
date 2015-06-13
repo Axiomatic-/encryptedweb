@@ -33,7 +33,7 @@
 		- .www.amnesty.org
 
 -->
-<ruleset name="Amnesty.org (partial)" default_off="Needs ruleset tests">
+<ruleset name="Amnesty.org (partial)">
 
 	<!--	Direct rewrites:
 				-->
