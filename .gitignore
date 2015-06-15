@@ -5,6 +5,8 @@ pkg/
 src/chrome/content/rules/default.rulesets
 src/defaults/rulesets.sqlite*
 *.swp
+*.orig
+*.rej
 tokenkeys.py*
 .idea
 *.pyc
