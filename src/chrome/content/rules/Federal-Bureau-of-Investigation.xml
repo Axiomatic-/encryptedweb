@@ -34,6 +34,9 @@
 	<rule from="^http://fbi\.gov/"
 		to="https://www.fbi.gov/" />
 
+	<rule from="^http://foia\.fbi\.gov/"
+		to="https://www.fbi.gov/foia/" />
+
 	<rule from="^http:"
 		to="https:" />
 
