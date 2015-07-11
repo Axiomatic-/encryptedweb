@@ -8,7 +8,7 @@
 	* Refused
 
 -->
-<ruleset name="Boing Boing Shop">
+<ruleset name="Boing Boing Shop" default_off="Breaks boingboing.net">
 
 	<target host="boingboing.net" />
 	<target host="media.boingboing.net" />
