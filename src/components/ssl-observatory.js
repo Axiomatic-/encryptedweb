@@ -104,7 +104,7 @@ function SSLObservatory() {
   // and to protect against CSRF
   this.csrf_nonce = "#"+Math.random().toString()+Math.random().toString();
 
-  this.compatJSON = Cc["@mozilla.org/dom/json;1"].createInstance(Ci.nsIJSON);
+  this.compatJSON = Cc["@mozilla.org/dom/json;1"].createInstance(Ci.JSON);
 
   // Register observer
   OS.addObserver(this, "http-on-examine-response", false);
